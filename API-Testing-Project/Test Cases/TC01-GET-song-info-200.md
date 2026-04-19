@@ -20,7 +20,7 @@ Verifies that a valid user with a valid token can successfully retrieve song inf
 4. Observe the response
 
 ## Expected Result
-- Response status: **200 OK**
+- Response status: 200 OK
 - Response body contains song information fields
 
 ## Actual Result
