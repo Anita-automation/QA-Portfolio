@@ -27,5 +27,5 @@ Verifies that a valid user with a valid token can successfully retrieve song inf
 To be filled during execution.
 
 ## Evidence
-- Screenshot: [View Screenshot](./API-Testing-Project/Evidence/Screenshots/TC01.png)
+- Screenshot: [View Screenshot](/API-Testing-Project/Evidence/Screenshots/TC01.png)
 - Postman run: /Evidence/postman-collection.json
