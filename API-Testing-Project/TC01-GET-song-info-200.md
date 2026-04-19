@@ -28,4 +28,4 @@ To be filled during execution.
 
 ## Evidence
 - Screenshot: [TC01](/API-Testing-Project/Evidence/Screenshots/TC01.png)
-- Postman run: /Evidence/postman-collection.json
+
