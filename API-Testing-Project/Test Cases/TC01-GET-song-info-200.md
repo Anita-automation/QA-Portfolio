@@ -24,7 +24,7 @@ Verifies that a valid user with a valid token can successfully retrieve song inf
 - Response body contains song information fields
 
 ## Actual Result
-To be filled during execution.
+- The request returned 200 OK. The response body was successfully retrieved and included the expected fields: lyrics, album_info, artist_info, and youtube (some returned null values). The API behaved as expected for a valid song_id and valid token.
 
 ## Evidence
 - Screenshot: [TC01](/API-Testing-Project/Evidence/Screenshots/TC01.png)
