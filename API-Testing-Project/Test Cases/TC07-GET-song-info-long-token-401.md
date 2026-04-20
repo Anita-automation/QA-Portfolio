@@ -31,4 +31,4 @@ Verifies that the API correctly rejects requests made with an overly long Bearer
 - The endpoint failed to correctly validate the overly long token  
 
 ## Evidence
-Screenshot: [TC06](/API-Testing-Project/Evidence/Screenshots/TC06.png)
+Screenshot: [TC07](/API-Testing-Project/Evidence/Screenshots/TC07.png)
