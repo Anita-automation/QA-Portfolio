@@ -11,11 +11,11 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 
 ## Test Data
 - song_id: *(missing)*  
-- token:  
+- token  
 
 ## Steps
 1. Send a GET request to `/api/song//info` (omit the song ID)  
-2. Include a valid bearer token in the Authorization header  
+2. Include a valid bearer token in the authorization header  
 3. Submit the request  
 4. Observe the response  
 
@@ -31,5 +31,4 @@ No song information was displayed.
 The API behaved as expected for a missing `song_id`.
 
 ## Evidence
-- Screenshot: TC03  
-- No related bug report (expected behavior)
+- Screenshot: TC03
