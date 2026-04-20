@@ -31,4 +31,4 @@ Verifies that the API correctly rejects requests made with an invalid Bearer tok
 
 ## Evidence
 - Screenshot: [TC08](/API-Testing-Project/Evidence/Screenshots/TC08.png)
-- Related Bug Report:
+- Related Bug Report: [BR07-Overly-Long-Token-Returns-404.md](../Bug-Reports/BR07-Overly-Long-Token-Returns-404.md)
