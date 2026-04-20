@@ -10,8 +10,8 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 - Endpoint `GET /api/song/{song_id}/info` is available  
 
 ## Test Data
-- song_id: *(non‑existent)*  
-- token  
+- song_id: *(missing)*  
+- token: *(valid)*  
 
 ## Steps
 1. Send a GET request to `/api/song/{invalid_song_id}/info` using a song ID that does not exist  
