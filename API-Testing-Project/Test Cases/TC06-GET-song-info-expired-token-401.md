@@ -30,5 +30,5 @@ Verifies that the API correctly rejects requests made with an expired Bearer tok
 - The API did **not** correctly reject the expired token, and the endpoint failed to enforce authentication requirements.
 
 ## Evidence
-- Screenshot: **TC03**  
+- Screenshot: [TC06](/API-Testing-Project/Evidence/Screenshots/TC06.png)  
 - Bug Report: 
