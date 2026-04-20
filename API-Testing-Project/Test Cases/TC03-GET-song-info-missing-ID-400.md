@@ -30,4 +30,4 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 - No song information was displayed.  
 
 ## Evidence
-- Screenshot: TC03
+- Screenshot: [TC03](/API-Testing-Project/Evidence/Screenshots/TC03.png)
