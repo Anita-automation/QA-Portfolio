@@ -11,8 +11,8 @@ Verifies that the API correctly rejects unsupported HTTP methods by returning **
 - Endpoint **GET /api/song/{song_id}/info** is available  
 
 ## Test Data
-- **song_id:**  
-- **token:**  
+- song_id 
+- token 
 
 ## Steps
 1. Send a **PUT** request to `/api/song/{song_id}/info`  
@@ -30,4 +30,4 @@ The response body included an error message stating that the **PUT** method is n
 The API behaved as expected when an unsupported HTTP method was used with a valid song ID and valid token.
 
 ## Evidence
-Screenshot: **TC02**
+Screenshot: [TC02](/API-Testing-Project/Evidence/Screenshots/TC02.png)
