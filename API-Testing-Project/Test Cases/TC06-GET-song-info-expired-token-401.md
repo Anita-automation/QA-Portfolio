@@ -31,4 +31,4 @@ Verifies that the API correctly rejects requests made with an expired Bearer tok
 
 ## Evidence
 - Screenshot: [TC06](/API-Testing-Project/Evidence/Screenshots/TC06.png)  
-- Bug Report: 
+- Related Bug Report: [BR05 – GET song info without token returns 200](../Bug%20Reports/BR05-Get-Song-Info-No-Token-Returns-200.md)
