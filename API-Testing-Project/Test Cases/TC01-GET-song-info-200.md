@@ -1,11 +1,11 @@
 # Test Case: GET /api/song/{song_id}/info returns 200 OK
 
 ## Objective
-Verifies that a valid user with a valid token can successfully retrieve song information.
+Verifies that a valid user with a valid Bearer token can successfully retrieve song information.
 
 ## Preconditions
 - Valid user account
-- Valid bearer token
+- Valid Bearer token
 - Postman environment configured
 - Existing song ID
 
@@ -15,7 +15,7 @@ Verifies that a valid user with a valid token can successfully retrieve song inf
 
 ## Steps
 1. Send a GET request to `/api/song/{song_id}/info`
-2. Include a valid bearer token in the authorization header
+2. Include a valid Bearer token in the authorization header
 3. Submit the request
 4. Observe the response
 
