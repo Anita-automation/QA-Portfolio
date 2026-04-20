@@ -11,11 +11,11 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 
 ## Test Data
 - song_id: *(non‑existent)*  
-- token:  
+- token  
 
 ## Steps
 1. Send a GET request to `/api/song/{invalid_song_id}/info` using a song ID that does not exist  
-2. Include a valid bearer token in the Authorization header  
+2. Include a valid bearer token in the authorization header  
 3. Submit the request  
 4. Observe the response  
 
@@ -25,11 +25,9 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 - No song information is displayed  
 
 ## Actual Result
-The request returned **404 Not Found**.  
-The response body indicated that the song resource does not exist.  
-No song information was displayed.  
-The API behaved as expected for a non‑existent `song_id`.
+- The request returned **404 Not Found**  
+- The response body indicated that the song resource does not exist  
+- No song information was displayed  
 
 ## Evidence
-- Screenshot: TC04  
-- No related bug report (expected 
+- Screenshot: [TC04](/API-Testing-Project/Evidence/Screenshots/TC04.png)  
