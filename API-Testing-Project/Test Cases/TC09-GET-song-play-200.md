@@ -30,4 +30,4 @@ Verifies that a valid user with a valid Bearer token can successfully play a son
 - The request behaved as expected for a valid song ID and valid token  
 
 ## Evidence
-Screenshot: **TC04**
+Screenshot: [TC09](/API-Testing-Project/Evidence/Screenshots/TC09.png)
