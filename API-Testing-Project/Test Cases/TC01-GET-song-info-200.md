@@ -10,8 +10,8 @@ Verifies that a valid user with a valid token can successfully retrieve song inf
 - Existing song ID
 
 ## Test Data
-- song_id
-- token
+- song_id: *(valid)*  
+- token: *(valid)*  
 
 ## Steps
 1. Send a GET request to `/api/song/{song_id}/info`
