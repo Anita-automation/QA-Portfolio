@@ -1,7 +1,7 @@
-# Test Case: GET /api/song/{song_id}/info with missing song ID returns 400 Bad Request
+# Test Case: GET /api/song/{song_id}/info with missing song ID returns 404 Not Found
 
 ## Objective
-Verifies that the API returns **400 Bad Request** when the user attempts to retrieve song information without providing a song ID.
+Verifies that the API returns **404 Not Found** when the user attempts to retrieve song information without providing a song ID, resulting in an invalid route.
 
 ## Preconditions
 - Valid user account  
@@ -11,22 +11,25 @@ Verifies that the API returns **400 Bad Request** when the user attempts to retr
 
 ## Test Data
 - song_id: *(missing)*  
-- token  
+- token:  
 
 ## Steps
 1. Send a GET request to `/api/song//info` (omit the song ID)  
-2. Include a valid bearer token in the authorization header  
+2. Include a valid bearer token in the Authorization header  
 3. Submit the request  
 4. Observe the response  
 
 ## Expected Result
-- Response status: **400 Bad Request**  
-- Response body contains an error message indicating that the song ID is missing  
+- Response status: **404 Not Found**  
+- Response body indicates that the route or resource was not found  
 - No song information is displayed  
 
 ## Actual Result
-- The request returned **400 Bad Request**. The response body included an error message stating that the song ID was required and not provided. No song information was displayed.
+The request returned **404 Not Found**.  
+The response body contained an empty `"message"` field.  
+No song information was displayed.  
+The API behaved as expected for a missing `song_id`.
 
 ## Evidence
-- Screenshot: TC03
-- Related Bug Report: [BR03](../bug-reports/BR03_missing_song_id.md)
+- Screenshot: TC03  
+- No related bug report (expected behavior)
