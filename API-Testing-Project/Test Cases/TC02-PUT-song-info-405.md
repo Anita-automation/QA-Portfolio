@@ -5,7 +5,7 @@ Verifies that the API correctly rejects unsupported HTTP methods by returning **
 
 ## Preconditions
 - Valid user account  
-- Valid bearer token  
+- Valid Bearer token  
 - Postman environment configured  
 - Existing song ID  
 - Endpoint **GET /api/song/{song_id}/info** is available  
@@ -16,7 +16,7 @@ Verifies that the API correctly rejects unsupported HTTP methods by returning **
 
 ## Steps
 1. Send a **PUT** request to `/api/song/{song_id}/info`  
-2. Include a valid bearer token in the Authorization header  
+2. Include a valid Bearer token in the Authorization header  
 3. Submit the request  
 4. Observe the response  
 
