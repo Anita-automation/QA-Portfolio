@@ -1,4 +1,4 @@
-# Bug Report: GET /api/song/{song_id}/info without bearer token returns 200 OK (Should be 401 Unauthorized)
+# Bug Report: GET /api/song/{song_id}/info without Bearer token returns 200 OK (Should be 401 Unauthorized)
 
 ## Summary
 The API incorrectly returns **200 OK** when requesting song information without providing a Bearer token.  
@@ -17,7 +17,7 @@ A 401 Unauthorized response is expected for unauthenticated requests.
 
 ## Steps to Reproduce
 1. Send a GET request to `/api/song/{song_id}/info` using a valid song ID  
-2. Do **not** include a Bearer token in the Authorization header  
+2. Do **not** include a Bearer token in the authorization header  
 3. Submit the request  
 4. Observe the response  
 
