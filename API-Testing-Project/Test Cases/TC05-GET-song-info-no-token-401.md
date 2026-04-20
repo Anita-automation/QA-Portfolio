@@ -30,4 +30,4 @@ This behavior is incorrect and has been logged as a defect
 
 ## Evidence
 - Screenshot: [TC05](/API-Testing-Project/Evidence/Screenshots/TC05.png) 
-- Related Bug Report: BR05
+- Related Bug Report: [BR05](/API-Testing-Project/Bug-Reports/BR05.png) 
