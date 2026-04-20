@@ -11,11 +11,11 @@ Verifies that the API returns **400 Bad Request** when the user attempts to retr
 
 ## Test Data
 - song_id: *(missing)*  
-- token:  
+- token  
 
 ## Steps
 1. Send a GET request to `/api/song//info` (omit the song ID)  
-2. Include a valid bearer token in the Authorization header  
+2. Include a valid bearer token in the authorization header  
 3. Submit the request  
 4. Observe the response  
 
