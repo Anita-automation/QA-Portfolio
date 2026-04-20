@@ -5,7 +5,7 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 
 ## Preconditions
 - Valid user account  
-- Valid bearer token  
+- Valid Bearer token  
 - Postman environment configured  
 - Endpoint `GET /api/song/{song_id}/info` is available  
 
@@ -15,7 +15,7 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 
 ## Steps
 1. Send a GET request to `/api/song/{invalid_song_id}/info` using a song ID that does not exist  
-2. Include a valid bearer token in the authorization header  
+2. Include a valid Bearer token in the authorization header  
 3. Submit the request  
 4. Observe the response  
 
