@@ -25,10 +25,9 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 - No song information is displayed  
 
 ## Actual Result
-The request returned **404 Not Found**.  
-The response body contained an empty `"message"` field.  
-No song information was displayed.  
-The API behaved as expected for a missing `song_id`.
+- The request returned **404 Not Found**.  
+- The response body contained an empty `"message"` field.  
+- No song information was displayed.  
 
 ## Evidence
 - Screenshot: TC03
