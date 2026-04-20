@@ -31,4 +31,4 @@ A **401 Unauthorized** response is expected for unauthenticated or improperly au
 - This behavior violates expected authentication and security requirements  
 
 ## Evidence
-Screenshot: **BR08**
+Screenshot: [TC08](/API-Testing-Project/Evidence/Screenshots/TC08.png)
