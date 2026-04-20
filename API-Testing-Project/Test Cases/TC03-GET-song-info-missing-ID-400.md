@@ -25,8 +25,8 @@ Verifies that the API returns **400 Bad Request** when the user attempts to retr
 - No song information is displayed  
 
 ## Actual Result
-The request returned **400 Bad Request**. The response body included an error message stating that the song ID was required and not provided. No song information was displayed.
+- The request returned **400 Bad Request**. The response body included an error message stating that the song ID was required and not provided. No song information was displayed.
 
 ## Evidence
-Screenshot: TC03
-Related Bug Report: [BR03](../bug-reports/BR03_missing_song_id.md)
+- Screenshot: TC03
+- Related Bug Report: [BR03](../bug-reports/BR03_missing_song_id.md)
