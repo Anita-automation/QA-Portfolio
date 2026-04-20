@@ -32,4 +32,4 @@ Verifies that the API correctly rejects requests made with an overly long Bearer
 
 ## Evidence
 Screenshot: [TC07](/API-Testing-Project/Evidence/Screenshots/TC07.png)  
-- Related Bug Report: [BR07-Expired-Token-Returns-200](../Bug-Reports/BR06-Expired-Token-Returns-200.md)
+- Related Bug Report: [BR07-Overly-Long-Token-Returns-404.md](../Bug-Reports/BR07-Overly-Long-Token-Returns-404.md)
