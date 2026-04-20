@@ -11,8 +11,8 @@ Verifies that the API correctly rejects requests made with an overly long Bearer
 - Overly long Bearer token is used  
 
 ## Test Data
-- song_id:
-- token: overly long token
+- song_id: *(valid)*
+- token: *(overly long token)*
 
 ## Steps
 1. Send a **GET** request to `/api/song/{song_id}/info` using a valid song ID  
