@@ -3,7 +3,7 @@
 ### Objective
 Verify that the API returns **400 Bad Request** when a user attempts to retrieve song information **without providing a song ID** in the request path.
 
----
+-
 
 ### Preconditions
 - Valid registered user  
