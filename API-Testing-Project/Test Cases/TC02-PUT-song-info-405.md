@@ -25,9 +25,9 @@ Verifies that the API correctly rejects unsupported HTTP methods by returning **
 - Response body contains an error message indicating that the **PUT** method is not supported and only **GET, HEAD** are allowed  
 
 ## Actual Result
-The request returned **405 Method Not Allowed**.  
-The response body included an error message stating that the **PUT** method is not supported for this route and that only **GET** and **HEAD** are allowed.  
-The API behaved as expected when an unsupported HTTP method was used with a valid song ID and valid token.
+- The request returned **405 Method Not Allowed**.  
+- The response body included an error message stating that the **PUT** method is not supported for this route and that only **GET** and **HEAD** are allowed.  
+- The API behaved as expected when an unsupported HTTP method was used with a valid song ID and valid token.
 
 ## Evidence
-Screenshot: [TC02](/API-Testing-Project/Evidence/Screenshots/TC02.png)
+- Screenshot: [TC02](/API-Testing-Project/Evidence/Screenshots/TC02.png)
