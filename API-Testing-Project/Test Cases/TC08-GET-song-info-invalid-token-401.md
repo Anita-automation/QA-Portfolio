@@ -11,8 +11,8 @@ Verifies that the API correctly rejects requests made with an invalid Bearer tok
 - Invalid Bearer token is used  
 
 ## Test Data
-- song_id:
-- token: invalid token
+- song_id: *(valid)*
+- token: *(invalid token)*
 
 ## Steps
 1. Send a **GET** request to `/api/song/{song_id}/info` using a valid song ID  
