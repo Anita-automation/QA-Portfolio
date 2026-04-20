@@ -32,4 +32,4 @@ A **401 Unauthorized** response is expected for overly long authentication token
 - The API did not return the expected 401 Unauthorized   
 
 ## Evidence
-Screenshot: **BR06**
+Screenshot: [TC07](/API-Testing-Project/Evidence/Screenshots/TC07.png)
