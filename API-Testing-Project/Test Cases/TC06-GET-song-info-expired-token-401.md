@@ -11,8 +11,8 @@ Verifies that the API correctly rejects requests made with an expired Bearer tok
 - Expired Bearer token is used  
 
 ## Test Data
-- song_id: (valid)
-- token: (expired token)
+- song_id: *(valid)*
+- token: *(expired token)*
 
 ## Steps
 1. Send a **GET** request to `/api/song/{song_id}/info`  
@@ -25,10 +25,10 @@ Verifies that the API correctly rejects requests made with an expired Bearer tok
 - No song information is displayed  
 
 ## Actual Result
-The request returned **200 OK** instead of 401 Unauthorized.  
-The response body displayed HTML content rather than an authorization error.  
-The API did **not** correctly reject the expired token, and the endpoint failed to enforce authentication requirements.
+- The request returned **200 OK** instead of 401 Unauthorized.  
+- The response body displayed HTML content rather than an authorization error.  
+- The API did **not** correctly reject the expired token, and the endpoint failed to enforce authentication requirements.
 
 ## Evidence
-Screenshot: **TC03**  
-Bug Report: 
+- Screenshot: **TC03**  
+- Bug Report: 
