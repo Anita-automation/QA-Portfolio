@@ -31,4 +31,5 @@ Verifies that the API correctly rejects requests made with an overly long Bearer
 - The endpoint failed to correctly validate the overly long token  
 
 ## Evidence
-Screenshot: [TC07](/API-Testing-Project/Evidence/Screenshots/TC07.png)
+Screenshot: [TC07](/API-Testing-Project/Evidence/Screenshots/TC07.png)  
+- Related Bug Report: [BR07-Expired-Token-Returns-200](../Bug-Reports/BR06-Expired-Token-Returns-200.md)
