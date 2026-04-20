@@ -15,7 +15,7 @@ Verifies that the API should return **401 Unauthorized** when the user attempts 
 
 ## Steps
 1. Send a GET request to `/api/song/{song_id}/info` using a valid song ID  
-2. Do **not** include a Bearer token in the Authorization header  
+2. Do **not** include a Bearer token in the authorization header  
 3. Submit the request  
 4. Observe the response  
 
@@ -25,8 +25,8 @@ Verifies that the API should return **401 Unauthorized** when the user attempts 
 - No song information is displayed  
 
 ## Actual Result
-The request returned **200 OK** instead of the expected 401 Unauthorized.  
-This behavior is incorrect and has been logged as a defect.
+The request returned **200 OK** instead of the expected 401 Unauthorized  
+This behavior is incorrect and has been logged as a defect
 
 ## Evidence
 - Screenshot: TC05  
