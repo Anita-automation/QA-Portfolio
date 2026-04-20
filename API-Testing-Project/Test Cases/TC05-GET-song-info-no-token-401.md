@@ -30,4 +30,4 @@ This behavior is incorrect and has been logged as a defect
 
 ## Evidence
 - Screenshot: [TC05](/API-Testing-Project/Evidence/Screenshots/TC05.png) 
-- Related Bug Report: [[BR05 – GET song info without token returns 200](../bug-reports/BR05-Get-Song-Info-No-Token-Returns-200.md)
+- Related Bug Report: [BR05 – GET song info without token returns 200](../Bug%20Reports/BR05-Get-Song-Info-No-Token-Returns-200.md)
