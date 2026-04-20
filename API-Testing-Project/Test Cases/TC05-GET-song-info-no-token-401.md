@@ -1,4 +1,4 @@
-# Test Case: GET /api/song/{song_id}/info without bearer token returns 401 Unauthorized
+# Test Case: GET /api/song/{song_id}/info without Bearer token returns 401 Unauthorized
 
 ## Objective
 Verifies that the API should return **401 Unauthorized** when the user attempts to retrieve song information using a valid song ID but without providing a Bearer token.
