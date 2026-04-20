@@ -29,3 +29,4 @@ The request returned **400 Bad Request**. The response body included an error me
 
 ## Evidence
 Screenshot: **TC03**
+Related Bug Report: [BR03](../bug-reports/BR03_missing_song_id.md)
