@@ -30,5 +30,5 @@ Verifies that the API correctly rejects requests made with an invalid Bearer tok
 - This behavior violates expected authentication
 
 ## Evidence
-- Screenshot: **TC03**
+- Screenshot: [TC08](/API-Testing-Project/Evidence/Screenshots/TC08.png)
 - Related Bug Report:
