@@ -29,5 +29,5 @@ The request returned **200 OK** instead of the expected 401 Unauthorized
 This behavior is incorrect and has been logged as a defect
 
 ## Evidence
-- Screenshot: TC05  
+- Screenshot: [TC05](/API-Testing-Project/Evidence/Screenshots/TC05.png) 
 - Related Bug Report: BR05
