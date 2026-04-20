@@ -10,12 +10,12 @@ Verifies that a valid user with a valid token can successfully retrieve song inf
 - Existing song ID
 
 ## Test Data
-- song_id: <valid ID>
-- token: <valid token>
+- song_id
+- token
 
 ## Steps
 1. Send a GET request to /api/song/{song_id}/info
-2. Include a valid bearer token in the Authorization header
+2. Include a valid bearer token in the authorization header
 3. Submit the request
 4. Observe the response
 
