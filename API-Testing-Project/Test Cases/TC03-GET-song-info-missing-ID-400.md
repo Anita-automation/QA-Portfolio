@@ -11,7 +11,7 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 
 ## Test Data
 - song_id: *(missing)*  
-- token  
+- token: *(valid)*  
 
 ## Steps
 1. Send a GET request to `/api/song//info` (omit the song ID)  
