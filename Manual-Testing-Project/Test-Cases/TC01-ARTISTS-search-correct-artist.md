@@ -26,10 +26,10 @@ Verify that the Artists search functionality correctly displays matching artists
 
 
 ## Expected Result
-- When entering **"Lobo Loco"**, only the matching artist is displayed  
-- Non‑matching artists are not displayed  
-- When entering **"Robert"**, relevant matching artists are displayed  
-- Non‑matching artists are not displayed
+- When entering **"Lobo Loco"**, only the matching artist is displayed.  
+- Non‑matching artists are not displayed.  
+- When entering **"Robert"**, relevant matching artists are displayed.  
+- Non‑matching artists are not displayed.
 
 
 ## Actual Result
@@ -46,4 +46,4 @@ Verify that the Artists search functionality correctly displays matching artists
 - Screenshot: [TC01-2](/Manual-Testing-Project/Evidence/TC01-2.png)
 - Screenshot: [TC01-3](/Manual-Testing-Project/Evidence/TC01-3.png)
 - Screenshot: [TC01-4](/Manual-Testing-Project/Evidence/TC01-4.png)
-- Related Bug Report:
+- Related Bug Report: [BR01-Invalid-Token-Returns-200.md](../Bug-Reports/BR08-Invalid-Token-Returns-200.md)
