@@ -25,4 +25,4 @@
 - The selected song by the selected artist started playing successfully.
 
 ## Status
-✔️ **Passed**
+✅ **Passed**
