@@ -46,4 +46,4 @@ Verify that the Artists search functionality correctly displays matching artists
 - Screenshot: [TC01-2](/Manual-Testing-Project/Evidence/TC01-2.png)
 - Screenshot: [TC01-3](/Manual-Testing-Project/Evidence/TC01-3.png)
 - Screenshot: [TC01-4](/Manual-Testing-Project/Evidence/TC01-4.png)
-- Related Bug Report: [BR01-Invalid-Token-Returns-200.md](../Bug-Reports/BR08-Invalid-Token-Returns-200.md)
+- Related Bug Report: [BR01-ARTISTS-Artists-Search-Returns-Incorrect-Results.md](../Bug-Reports/BR01-ARTISTS-Artists-Search-Returns-Incorrect-Results.md)
