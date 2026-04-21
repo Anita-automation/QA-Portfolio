@@ -37,6 +37,3 @@ Non‑matching artists appear for a full search, and no results appear for a par
 - Screenshot: TC01-2  
 - Screenshot: TC01-3  
 - Screenshot: TC01-4
-
-## Related Test Case
-TC01 – Artists Search – User is able to find the correct artist using the search field
