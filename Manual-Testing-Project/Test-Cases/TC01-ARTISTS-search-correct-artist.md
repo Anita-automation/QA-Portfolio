@@ -3,20 +3,20 @@
 ## Objective
 Verify that the Artists search functionality correctly displays matching artists when the user enters a full or partial valid artist name.
 
----
+-
 
 ## Preconditions
 - Valid Koel user account  
 - User is logged into Koel: https://qa.koel.app/#!/home  
 - Artists exist in the database (e.g., Lobo Loco, Robert)
 
----
+-
 
 ## Test Data
 - Full artist name: **Lobo Loco**  
 - Partial artist name: **Robert**
 
----
+-
 
 ## Steps
 1. Log into Koel and navigate to the Artists page.  
@@ -27,7 +27,7 @@ Verify that the Artists search functionality correctly displays matching artists
 6. Enter a partial valid artist name: **"Robert"**.  
 7. Observe the displayed results.
 
----
+-
 
 ## Expected Result
 - When entering **"Lobo Loco"**, only the matching artist is displayed.  
@@ -35,18 +35,18 @@ Verify that the Artists search functionality correctly displays matching artists
 - When entering **"Robert"**, relevant matching artists are displayed.  
 - Non‑matching artists are not displayed.
 
----
+-
 
 ## Actual Result
 - Full artist search **"Lobo Loco"** incorrectly displays additional artists (The Blank Tapes, Defunct by Metre).  
 - Partial artist search **"Robert"** returns **no results**, even though matching artists exist.
 
----
+-
 
 ## Status
 ❌ **Failed**
 
----
+-
 
 ## Evidence
 - Screenshot: [TC01-1](/Manual-Testing-Project/Evidence/TC01-1.png)
