@@ -5,6 +5,8 @@ This repository contains API test cases, bug reports, and evidence screenshots f
 All testing was performed against the Koel QA environment:  
 https://qa.koel.app
 
+This work was managed in **Jira (Zaphyre)** as part of a structured QA workflow, and all API calls were executed and validated using **Postman**.
+
 ---
 
 ## Project Overview
@@ -50,6 +52,8 @@ The test suite covers:
 - Overly long token
 - Incorrect/invalid token
 
+All tests were executed using **Postman**, with authentication handled via Bearer tokens and JWT tokens.
+
 ---
 
 ### Bug Reports  
@@ -69,6 +73,8 @@ These reports document issues such as:
 - Invalid or missing tokens returning **200 OK** instead of **401**
 - Overly long tokens returning **404 Not Found**
 - Authentication not being enforced correctly
+
+All defects were logged and tracked in **Jira (Zaphyre)** as part of the project workflow.
 
 ---
 
@@ -97,6 +103,7 @@ This project demonstrates:
 - Authentication and security validation  
 - Negative testing  
 - Bug reporting with clear reproduction steps  
+- Working within a Jira-managed workflow  
 - Organised documentation suitable for a QA portfolio  
 
 It reflects real‑world API testing practices and shows the ability to identify and document defects in authentication logic.
