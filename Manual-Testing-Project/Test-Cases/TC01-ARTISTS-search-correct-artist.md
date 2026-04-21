@@ -49,5 +49,5 @@ Verify that the Artists search functionality correctly displays matching artists
 ---
 
 ## Evidence
-- Screenshot: ![TC01 Screenshot 1](./evidence/TC01.png)
+- Screenshot: ![TC01 Screenshot 1](./Evidence/TC01-1.png)
 - Related Bug Report:
