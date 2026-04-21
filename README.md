@@ -1,4 +1,4 @@
-# QA Portfolio – Anita
+# QA Portfolio – Anita Surewicz
 
 My portfolio currently includes a Manual Testing project (UI + functional testing in Jira/Zephyr) and an API Testing project (Postman, authentication testing, negative testing). I am currently working on QA Automation projects using Selenium, TestNG, and Java, and these manual/API foundations ensure my automation work is structured, maintainable, and aligned with real QA workflows. All testing work has been completed during the TestPro Internship and through independent study.
 
