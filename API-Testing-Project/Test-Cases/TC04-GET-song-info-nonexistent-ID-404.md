@@ -27,7 +27,10 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 ## Actual Result
 - The request returned **404 Not Found**.  
 - The response body indicated that the song resource does not exist.  
-- No song information was displayed.  
+- No song information was displayed.
+
+## Status
+✅ **Passed**
 
 ## Evidence
 - Screenshot: [TC04](/API-Testing-Project/Evidence/Screenshots/TC04.png)  
