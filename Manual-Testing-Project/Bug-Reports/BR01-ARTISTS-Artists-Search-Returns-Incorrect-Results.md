@@ -30,7 +30,7 @@ Non‑matching artists appear for a full search, and no results appear for a par
 - Partial artist search **“Robert”** returns **no results**, even though matching artists exist.
 
 ## Evidence
-- Screenshot: TC01-1  
-- Screenshot: TC01-2  
-- Screenshot: TC01-3  
-- Screenshot: TC01-4
+- Screenshot: [TC01-1](/Manual-Testing-Project/Evidence/TC01-1.png) 
+- Screenshot: [TC01-2](/Manual-Testing-Project/Evidence/TC01-2.png)  
+- Screenshot: [TC01-3](/Manual-Testing-Project/Evidence/TC01-3.png)  
+- Screenshot: [TC01-4](/Manual-Testing-Project/Evidence/TC01-4.png)
