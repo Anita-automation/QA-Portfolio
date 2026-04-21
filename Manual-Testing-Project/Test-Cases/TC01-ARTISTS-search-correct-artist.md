@@ -16,25 +16,25 @@ Verify that the Artists search functionality correctly displays matching artists
 
 
 ## Steps
-1. Log into Koel and navigate to the Artists page.  
-2. Click on the search field.  
-3. Enter the full valid artist name: **"Lobo Loco"**.  
-4. Observe the displayed results.  
-5. Delete the artist name from the search field.  
-6. Enter a partial valid artist name: **"Robert"**.  
-7. Observe the displayed results.
+1. Log into Koel  
+2. Click on the search field  
+3. Enter the full valid artist name: **"Lobo Loco"**  
+4. Observe the displayed results  
+5. Delete the artist name from the search field  
+6. Enter a partial valid artist name: **"Robert"**  
+7. Observe the displayed results
 
 
 ## Expected Result
-- When entering **"Lobo Loco"**, only the matching artist is displayed.  
-- Non‑matching artists are not displayed.  
-- When entering **"Robert"**, relevant matching artists are displayed.  
-- Non‑matching artists are not displayed.
+- When entering **"Lobo Loco"**, only the matching artist is displayed  
+- Non‑matching artists are not displayed  
+- When entering **"Robert"**, relevant matching artists are displayed  
+- Non‑matching artists are not displayed
 
 
 ## Actual Result
-- Full artist search **"Lobo Loco"** incorrectly displays additional artists (The Blank Tapes, Defunct by Metre).  
-- Partial artist search **"Robert"** returns **no results**, even though matching artists exist.
+- Full artist search **"Lobo Loco"** incorrectly displays additional artists (The Blank Tapes, Defunct by Metre)  
+- Partial artist search **"Robert"** returns **no results**, even though matching artists exist
 
 
 ## Status
