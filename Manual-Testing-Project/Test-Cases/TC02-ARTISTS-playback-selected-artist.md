@@ -26,3 +26,6 @@
 
 ## Status
 ✅ **Passed**
+
+## Evidence
+- Screenshot: [TC02](/Manual-Testing-Project/Evidence/TC02.png)
