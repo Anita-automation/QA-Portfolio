@@ -20,11 +20,10 @@
 - No missing text or broken images are present.
 
 ## Actual Result
-- "Unknown Artist" is displayed despite artist names being present in track data.  
-- Example: https://qa.koel.app/#!/artist/1
+- "Unknown Artist" is displayed despite artist names being present in track data: https://qa.koel.app/#!/artist/1.  
 
 ## Status
 ❌ **Failed**
 
 ## Evidence
-- Screenshot: TC03-1 
+- Screenshot: TC03 
