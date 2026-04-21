@@ -26,7 +26,7 @@ Non‑matching artists appear for a full search, and no results appear for a par
 - When entering **“Robert”**, relevant matching artists are displayed and non‑matching artists are not displayed.
 
 ## Actual Result
-- Full artist search **“Lobo Loco”** displays additional non‑matching artists (*The Blank Tapes*, *Defunct by Metre*).  
+- Full artist search **“Lobo Loco”** displays additional non‑matching artists (The Blank Tapes, Defunct by Metre).  
 - Partial artist search **“Robert”** returns **no results**, even though matching artists exist.
 
 ## Evidence
