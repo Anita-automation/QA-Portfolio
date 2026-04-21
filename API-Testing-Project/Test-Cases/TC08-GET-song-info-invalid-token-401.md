@@ -29,6 +29,9 @@ Verifies that the API correctly rejects requests made with an invalid Bearer tok
 - Response status: **200 OK**.    
 - This behavior violates expected authentication.
 
+## Status
+❌ **Failed**
+
 ## Evidence
 - Screenshot: [TC08](/API-Testing-Project/Evidence/Screenshots/TC08.png)
 - Related Bug Report: [BR08-Invalid-Token-Returns-200.md](../Bug-Reports/BR08-Invalid-Token-Returns-200.md)
