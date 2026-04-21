@@ -3,7 +3,6 @@
 ## Objective
 Verify that the Artists search functionality correctly displays matching artists when the user enters a full or partial valid artist name.
 
--
 
 ## Preconditions
 - Valid Koel user account  
