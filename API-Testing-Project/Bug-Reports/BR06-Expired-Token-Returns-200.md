@@ -23,13 +23,13 @@ A **401 Unauthorized** response is expected for requests made with invalid or ex
 4. Observe the response  
 
 ## Expected Result
-- Response status: **401 Unauthorized**
-- Response body indicates that authentication is required 
-- No song information is displayed  
+- Response status: **401 Unauthorized**.
+- Response body indicates that authentication is required. 
+- No song information is displayed.  
 
 ## Actual Result
-- Response status: **200 OK** 
-- This behavior violates expected authentication and security requirements  
+- Response status: **200 OK**. 
+- This behavior violates expected authentication and security requirements.  
 
 ## Evidence
 Screenshot: [TC06](/API-Testing-Project/Evidence/Screenshots/TC06.png)
