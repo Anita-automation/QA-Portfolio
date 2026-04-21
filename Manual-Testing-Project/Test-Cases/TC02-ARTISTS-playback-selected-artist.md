@@ -6,8 +6,8 @@
 - Artists and their songs exist in the database
 
 ## Test Data
-- Selected artist: Enter Value...  
-- Selected song: Enter Value...
+- Selected artist: Hogan Grip
+- Selected song: Stance Gives You Balance
 
 ## Steps
 - Click on a specific artist  
