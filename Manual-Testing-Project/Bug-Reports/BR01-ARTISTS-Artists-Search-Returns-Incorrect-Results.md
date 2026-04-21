@@ -29,9 +29,6 @@ Non‑matching artists appear for a full search, and no results appear for a par
 - Full artist search **“Lobo Loco”** displays additional non‑matching artists (*The Blank Tapes*, *Defunct by Metre*).  
 - Partial artist search **“Robert”** returns **no results**, even though matching artists exist.
 
-## Status
-❌ **Open / Failed**
-
 ## Evidence
 - Screenshot: TC01-1  
 - Screenshot: TC01-2  
