@@ -21,13 +21,13 @@ Verifies that the API correctly rejects requests made with an invalid Bearer tok
 4. Observe the response  
 
 ## Expected Result
-- Response status: **401 Unauthorized**  
-- Response body indicates that authentication is required  
-- No song information is displayed  
+- Response status: **401 Unauthorized**.  
+- Response body indicates that authentication is required.  
+- No song information is displayed.  
 
 ## Actual Result
-- Response status: **200 OK**    
-- This behavior violates expected authentication
+- Response status: **200 OK**.    
+- This behavior violates expected authentication.
 
 ## Evidence
 - Screenshot: [TC08](/API-Testing-Project/Evidence/Screenshots/TC08.png)
