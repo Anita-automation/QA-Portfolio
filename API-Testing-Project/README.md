@@ -49,7 +49,6 @@ The test suite covers:
 - Expired token
 - Overly long token
 - Incorrect/invalid token
-- JWT token playback endpoint
 
 ---
 
@@ -85,7 +84,7 @@ API-Testing-Project/
 │
 ├── Test-Cases/
 ├── Bug-Reports/
-└── Evidence/
+└── Evidence/Screenshots/
 ```
 
 ---
