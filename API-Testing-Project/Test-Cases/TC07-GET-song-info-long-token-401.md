@@ -28,8 +28,11 @@ Verifies that the API correctly rejects requests made with an overly long Bearer
 ## Actual Result
 - Response status: **404 Not Found**.  
 - The API did not return the expected 401 Unauthorized.  
-- The endpoint failed to correctly validate the overly long token.  
+- The endpoint failed to correctly validate the overly long token.
+
+## Status
+❌ **Failed**
 
 ## Evidence
-Screenshot: [TC07](/API-Testing-Project/Evidence/Screenshots/TC07.png)  
+- Screenshot: [TC07](/API-Testing-Project/Evidence/Screenshots/TC07.png)
 - Related Bug Report: [BR07-Overly-Long-Token-Returns-404.md](../Bug-Reports/BR07-Overly-Long-Token-Returns-404.md)
