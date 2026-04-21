@@ -5,7 +5,7 @@ This repository contains API test cases, bug reports, and evidence screenshots f
 All testing was performed against the Koel QA environment:  
 https://qa.koel.app
 
-This work was managed in **Jira (Zaphyre)** as part of a structured QA workflow, and all API calls were executed and validated using **Postman**.
+This work was managed in **Jira (Zephyr)** as part of a structured QA workflow, and all API calls were executed and validated using **Postman**.
 
 ---
 
