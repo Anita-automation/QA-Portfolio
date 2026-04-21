@@ -26,5 +26,8 @@ Verifies that a valid user with a valid Bearer token can successfully retrieve s
 ## Actual Result
 - The request returned **200 OK.** The response body was successfully retrieved and included the expected fields: lyrics, album_info, artist_info, and youtube (some returned null values). The API behaved as expected for a valid song_id and valid token.
 
+## Status
+✅ **Passed**
+
 ## Evidence
 - Screenshot: [TC01](/API-Testing-Project/Evidence/Screenshots/TC01.png)
