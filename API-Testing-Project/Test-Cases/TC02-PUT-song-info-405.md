@@ -29,5 +29,8 @@ Verifies that the API correctly rejects unsupported HTTP methods by returning **
 - The response body included an error message stating that the **PUT** method is not supported for this route and that only **GET** and **HEAD** are allowed.  
 - The API behaved as expected when an unsupported HTTP method was used with a valid song ID and valid token.
 
+## Status
+✅ **Passed**
+
 ## Evidence
 - Screenshot: [TC02](/API-Testing-Project/Evidence/Screenshots/TC02.png)
