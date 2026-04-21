@@ -21,13 +21,13 @@ Verifies that a valid user with a valid Bearer token can successfully play a son
 5. Observe the response  
 
 ## Expected Result
-- Response status: **200 OK**  
-- Response body is returned (audio stream)  
+- Response status: **200 OK**.  
+- Response body is returned (audio stream).  
 
 ## Actual Result
-- Response status: **200 OK**  
-- The API successfully returned the response body  
-- The request behaved as expected for a valid song ID and valid token  
+- Response status: **200 OK**.  
+- The API successfully returned the response body.  
+- The request behaved as expected for a valid song ID and valid token.  
 
 ## Evidence
 Screenshot: [TC09](/API-Testing-Project/Evidence/Screenshots/TC09.png)
