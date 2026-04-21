@@ -20,14 +20,14 @@ Verifies that the API returns **404 Not Found** when the user attempts to retrie
 4. Observe the response  
 
 ## Expected Result
-- Response status: **404 Not Found**  
-- Response body indicates that the song could not be found  
-- No song information is displayed  
+- Response status: **404 Not Found**.  
+- Response body indicates that the song could not be found.  
+- No song information is displayed.  
 
 ## Actual Result
-- The request returned **404 Not Found**  
-- The response body indicated that the song resource does not exist  
-- No song information was displayed  
+- The request returned **404 Not Found**.  
+- The response body indicated that the song resource does not exist.  
+- No song information was displayed.  
 
 ## Evidence
 - Screenshot: [TC04](/API-Testing-Project/Evidence/Screenshots/TC04.png)  
