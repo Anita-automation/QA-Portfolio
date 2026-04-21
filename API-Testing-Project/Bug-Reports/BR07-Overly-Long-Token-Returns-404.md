@@ -23,13 +23,13 @@ A **401 Unauthorized** response is expected for overly long authentication token
 4. Observe the response  
 
 ## Expected Result
-- Response status: **401 Unauthorized**  
-- Response body indicates that authentication is required  
-- No song information is displayed  
+- Response status: **401 Unauthorized**.  
+- Response body indicates that authentication is required.  
+- No song information is displayed.  
 
 ## Actual Result
-- Response status: **404 Not Found**  
-- The API did not return the expected 401 Unauthorized   
+- Response status: **404 Not Found**.  
+- The API did not return the expected 401 Unauthorized.   
 
 ## Evidence
 Screenshot: [TC07](/API-Testing-Project/Evidence/Screenshots/TC07.png)
