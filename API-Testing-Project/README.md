@@ -52,7 +52,7 @@ The test suite covers:
 - Overly long token
 - Incorrect/invalid token
 
-All tests were executed using **Postman**, with authentication handled via Bearer tokens and JWT tokens.
+All tests were executed using **Postman**, with authentication handled via Bearer tokens.
 
 ---
 
@@ -74,7 +74,7 @@ These reports document issues such as:
 - Overly long tokens returning **404 Not Found**
 - Authentication not being enforced correctly
 
-All defects were logged and tracked in **Jira (Zaphyre)** as part of the project workflow.
+All defects were logged and tracked in **Jira (Zephyr)** as part of the project workflow.
 
 ---
 
