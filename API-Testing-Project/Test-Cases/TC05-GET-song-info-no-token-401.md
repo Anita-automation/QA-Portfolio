@@ -28,6 +28,9 @@ Verifies that the API should return **401 Unauthorized** when the user attempts 
 The request returned **200 OK** instead of the expected 401 Unauthorized.  
 This behavior is incorrect and has been logged as a defect.
 
+## Status
+❌ **Failed**
+
 ## Evidence
 - Screenshot: [TC05](/API-Testing-Project/Evidence/Screenshots/TC05.png) 
 - Related Bug Report: [BR05 – GET song info without token returns 200](../Bug%20Reports/BR05-Get-Song-Info-No-Token-Returns-200.md)
