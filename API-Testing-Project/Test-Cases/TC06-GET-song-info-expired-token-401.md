@@ -21,8 +21,8 @@ Verifies that the API correctly rejects requests made with an expired Bearer tok
 4. Observe the response  
 
 ## Expected Result
-- Response status: **401 Unauthorized**  
-- No song information is displayed  
+- Response status: **401 Unauthorized**.  
+- No song information is displayed. 
 
 ## Actual Result
 - The request returned **200 OK** instead of 401 Unauthorized.  
