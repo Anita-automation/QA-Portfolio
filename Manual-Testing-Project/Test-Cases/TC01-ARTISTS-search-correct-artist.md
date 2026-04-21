@@ -50,4 +50,7 @@ Verify that the Artists search functionality correctly displays matching artists
 
 ## Evidence
 - Screenshot: [TC01-1](/Manual-Testing-Project/Evidence/TC01-1.png)
+- Screenshot: [TC01-2](/Manual-Testing-Project/Evidence/TC01-2.png)
+- Screenshot: [TC01-3](/Manual-Testing-Project/Evidence/TC01-3.png)
+- Screenshot: [TC01-4](/Manual-Testing-Project/Evidence/TC01-4.png)
 - Related Bug Report:
