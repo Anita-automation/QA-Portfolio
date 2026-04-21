@@ -1,6 +1,6 @@
 # QA Portfolio – Anita
 
-This portfolio showcases my manual, API, and automation testing work completed during the TestPro Internship and independent study.
+My portfolio currently includes a Manual Testing project (UI + functional testing in Jira/Zephyr) and an API Testing project (Postman, authentication testing, negative testing). I’m now building automation projects using Selenium/TestNG/Java, and these manual/API foundations ensure my automation work is structured, maintainable, and aligned with real QA workflows. All the testing work has been completed during the TestPro Internship and independent study.
 
 ## Projects
 
