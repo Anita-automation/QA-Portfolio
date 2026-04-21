@@ -38,7 +38,7 @@ Verify that the Artists search functionality correctly displays matching artists
 
 
 ## Status
-❌ **Failed**
+✅ **Passed**
 
 
 ## Evidence
