@@ -21,8 +21,8 @@ Verifies that the API correctly rejects unsupported HTTP methods by returning **
 4. Observe the response  
 
 ## Expected Result
-- Response status: **405 Method Not Allowed**  
-- Response body contains an error message indicating that the **PUT** method is not supported and only **GET, HEAD** are allowed  
+- Response status: **405 Method Not Allowed**.  
+- Response body contains an error message indicating that the **PUT** method is not supported and only **GET, HEAD** are allowed.  
 
 ## Actual Result
 - The request returned **405 Method Not Allowed**.  
