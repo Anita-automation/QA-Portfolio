@@ -22,14 +22,14 @@ A 401 Unauthorized response is expected for unauthenticated requests.
 4. Observe the response  
 
 ## Expected Result
-- Response status: **401 Unauthorized**  
-- Response body indicates that authentication is required  
-- No song information is displayed  
+- Response status: **401 Unauthorized**.  
+- Response body indicates that authentication is required.  
+- No song information is displayed.  
 
 ## Actual Result
-- Response status: **200 OK**  
-- The API returned a successful response even though no Bearer token was provided  
-- This behavior violates expected authentication requirements  
+- Response status: **200 OK**.  
+- The API returned a successful response even though no Bearer token was provided.  
+- This behavior violates expected authentication requirements.  
 
 ## Evidence
 - Screenshot: [TC05](/API-Testing-Project/Evidence/Screenshots/TC05.png)  
