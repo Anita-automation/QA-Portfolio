@@ -10,10 +10,10 @@
 - Expected metadata values: Enter Value...
 
 ## Steps
-- Navigate to https://qa.koel.app/#!/artists  
-- Observe the list of displayed artists  
-- Review the artist name, number of albums, number of songs, and number of plays  
-- Check for missing text or broken images
+1. Navigate to https://qa.koel.app/#!/artists  
+2. Observe the list of displayed artists  
+3. Review the artist name, number of albums, number of songs, and number of plays  
+4. Check for missing text or broken images  
 
 ## Expected Result
 - Artist name, number of albums, number of songs, and number of plays are visible.  
@@ -27,6 +27,4 @@
 ❌ **Failed**
 
 ## Evidence
-- Screenshot: TC03-1  
-- Screenshot: TC03-2  
-- Screenshot: 
+- Screenshot: TC03-1 
