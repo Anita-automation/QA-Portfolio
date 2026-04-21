@@ -27,7 +27,10 @@ Verifies that a valid user with a valid Bearer token can successfully play a son
 ## Actual Result
 - Response status: **200 OK**.  
 - The API successfully returned the response body.  
-- The request behaved as expected for a valid song ID and valid token.  
+- The request behaved as expected for a valid song ID and valid token.
+
+## Status
+✅ **Passed**
 
 ## Evidence
 Screenshot: [TC09](/API-Testing-Project/Evidence/Screenshots/TC09.png)
