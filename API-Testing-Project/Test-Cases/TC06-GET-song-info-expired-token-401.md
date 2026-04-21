@@ -29,6 +29,9 @@ Verifies that the API correctly rejects requests made with an expired Bearer tok
 - The response body displayed HTML content rather than an authorization error.  
 - The API did **not** correctly reject the expired token, and the endpoint failed to enforce authentication requirements.
 
+## Status
+❌ **Failed**
+
 ## Evidence
 - Screenshot: [TC06](/API-Testing-Project/Evidence/Screenshots/TC06.png)  
 - Related Bug Report: [BR06-Expired-Token-Returns-200](../Bug-Reports/BR06-Expired-Token-Returns-200.md)
