@@ -32,7 +32,7 @@ Module: Artists
 - "Various Artists" appears in the DB but does not appear on the Artists page.
 
 ## Evidence
-- Screenshot: TC04-1  
-- Screenshot: TC04-2  
-- Screenshot: TC04-3
-- Screenshot: TC04-3
+- Screenshot: [TC04-1](/Manual-Testing-Project/Evidence/TC04-1.png)
+- Screenshot: [TC04-2](/Manual-Testing-Project/Evidence/TC04-2.png)
+- Screenshot: [TC04-3](/Manual-Testing-Project/Evidence/TC04-3.png)
+- Screenshot: [TC04-4](/Manual-Testing-Project/Evidence/TC04-4.png)   
