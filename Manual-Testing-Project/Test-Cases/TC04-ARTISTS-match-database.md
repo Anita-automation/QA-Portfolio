@@ -32,5 +32,8 @@
 ❌ **Failed**
 
 ## Evidence
-- Screenshot: [TC04](/Manual-Testing-Project/Evidence/TC04.png)  
+- Screenshot: [TC04-1](/Manual-Testing-Project/Evidence/TC04-1.png)
+- Screenshot: [TC04](/Manual-Testing-Project/Evidence/TC04.png)
+- Screenshot: [TC04](/Manual-Testing-Project/Evidence/TC04.png)
+- Screenshot: [TC04](/Manual-Testing-Project/Evidence/TC04.png)   
 - Related Bug Report: [BR04-ARTISTS-UI-Does-Not-Reflect-DB-Artists.md](../Bug-Reports/BR04-ARTISTS-UI-Does-Not-Reflect-DB-Artists.md)
