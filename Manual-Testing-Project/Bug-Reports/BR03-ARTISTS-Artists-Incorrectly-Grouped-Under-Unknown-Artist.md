@@ -29,4 +29,4 @@ No missing text or incorrect fallback labels are displayed.
 "Unknown Artist" is displayed despite artist names being present in track data: https://qa.koel.app/#!/artist/1
 
 ## Evidence
-- Screenshot: TC03 
+- Screenshot: [TC03](/Manual-Testing-Project/Evidence/TC03.png)  
