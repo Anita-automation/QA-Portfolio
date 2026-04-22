@@ -26,4 +26,5 @@
 ❌ **Failed**
 
 ## Evidence
-- Screenshot: [TC03](/Manual-Testing-Project/Evidence/TC03.png) 
+- Screenshot: [TC03](/Manual-Testing-Project/Evidence/TC03.png)
+- Related Bug Report: [BR03-ARTISTS-Artists-Search-Returns-Incorrect-Results.md](../Bug-Reports/BR01-ARTISTS-Artists-Search-Returns-Incorrect-Results.md)
