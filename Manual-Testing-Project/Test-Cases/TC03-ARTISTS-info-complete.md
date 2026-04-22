@@ -27,4 +27,4 @@
 
 ## Evidence
 - Screenshot: [TC03](/Manual-Testing-Project/Evidence/TC03.png)
-- Related Bug Report: [BR03-ARTISTS-Artists-Search-Returns-Incorrect-Results.md](../Bug-Reports/BR01-ARTISTS-Artists-Search-Returns-Incorrect-Results.md)
+- Related Bug Report: [BR03-ARTISTS-Artists-Incorrectly-Grouped-Under-Unknown-Artist.md](../Bug-Reports/BR03-ARTISTS-Artists-Incorrectly-Grouped-Under-Unknown-Artist.md)
