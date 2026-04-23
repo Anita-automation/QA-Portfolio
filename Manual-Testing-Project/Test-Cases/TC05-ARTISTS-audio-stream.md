@@ -24,7 +24,7 @@
 - Response body matches the expected string.
 
 ## Status
-✔️ **Passed**
+✅ **Passed**
 
 ## Evidence
 - Screenshot: [TC05](/Manual-Testing-Project/Evidence/TC05.png)
