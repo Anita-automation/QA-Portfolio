@@ -45,4 +45,4 @@ Verify that the Artists search functionality correctly displays **no results** w
 ## Evidence
 - Screenshot: [TC06-1](/Manual-Testing-Project/Evidence/TC06-1.png)
 - Screenshot: [TC06-2](/Manual-Testing-Project/Evidence/TC06-2.png)
-- Related Bug Report: *To be created* (e.g., **BR02‑ARTISTS‑Invalid‑Search‑Returns‑Incorrect‑Results.md**)
+- Related Bug Report: [BR04-ARTISTS-UI-Does-Not-Reflect-DB-Artists.md](../Bug-Reports/BR04-ARTISTS-UI-Does-Not-Reflect-DB-Artists.md)
