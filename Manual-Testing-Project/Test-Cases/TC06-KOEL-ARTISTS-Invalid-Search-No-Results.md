@@ -1,6 +1,4 @@
-# TC06-KOEL-ARTISTS-Invalid-Search-No-Results.md
-
-#TC-06: Koel | Artists | Search returns no results for invalid artist
+# TC06: Koel | Artists | Search returns no results for invalid artist
 
 ## Objective
 Verify that the Artists search functionality correctly displays **no results** when the user enters an invalid or non‑existent artist name, and confirm through the database that the invalid artist does not exist.
