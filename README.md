@@ -1,4 +1,4 @@
-# QA Portfolio – Anita Surewicz
+## QA Portfolio – Anita Surewicz
 
 My portfolio currently includes a Manual Testing project (UI + functional testing in Jira/Zephyr) and an API Testing project (Postman, authentication testing, negative testing). I am currently working on QA Automation projects using Selenium, TestNG, and Java, and these manual/API foundations ensure my automation work is structured, maintainable, and aligned with real QA workflows. All testing work has been completed during the TestPro Internship and through independent study.
 
@@ -7,23 +7,28 @@ This project focuses on the core functional and authentication scenarios require
 
 ## Projects
 
+### 1. Manual Testing Project
+This project demonstrates UI and functional testing using Jira/Zephyr within a structured QA workflow. It includes detailed test cases, exploratory testing sessions, and defect reporting with clear reproduction steps and evidence. The focus is on validating core user flows, identifying usability issues, and ensuring the application behaves as expected across different scenarios. Screenshots, bug reports, and test execution logs are included to show real‑world QA documentation.  
+➡️ View Project
+
 ### 2. API Testing Project
-REST API testing using Postman, including positive/negative scenarios and validation.  
-➡️ [View Project](API-Testing-Project)
+This project covers REST API testing using Postman, focusing on authentication, negative testing, and validation of the GET `/api/song/{song_id}/info` endpoint. It includes structured test cases, bug reports, and evidence screenshots, along with analysis of incorrect tokens, invalid IDs, and method handling. The project demonstrates how to verify API behavior, document defects, and validate backend logic in a realistic QA environment.  
+➡️ View Project
 
 ## Skills Demonstrated
-- Manual testing
-- API testing
-- Test case design
-- Bug reporting
-- Postman
-- Jira
-- Exploratory testing
+- Manual testing  
+- API testing  
+- Test case design  
+- Bug reporting  
+- Postman  
+- Jira  
+- Exploratory testing  
+- AI-Augmented Testing  
 
-## AI-Augmented Testing
+### AI-Augmented Testing
 I used AI tools to:
-- Generate initial test case drafts
-- Suggest edge cases
-- Analyze API error messages
+- Generate initial test case drafts  
+- Suggest edge cases  
+- Analyze API error messages  
 
-All AI-generated content was reviewed and refined manually.
+All AI-generated content was reviewed and refined 
