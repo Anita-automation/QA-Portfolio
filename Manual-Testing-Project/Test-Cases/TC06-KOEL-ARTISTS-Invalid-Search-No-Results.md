@@ -1,11 +1,15 @@
+# TC06-KOEL-ARTISTS-Invalid-Search-No-Results.md
+
 # Test Case: Koel | Artists | Search returns no results for invalid artist
 
 ## Objective
-Verify that the Artists search functionality correctly displays **no results** when the user enters an invalid or non‑existent artist name.
+Verify that the Artists search functionality correctly displays **no results** when the user enters an invalid or non‑existent artist name, and confirm through the database that the invalid artist does not exist.
 
 ## Preconditions
 - Valid Koel user account  
 - User is logged into Koel: https://qa.koel.app/#!/home  
+- Artists exist in the Koel database (validated via DBeaver using `SELECT * FROM artists ORDER BY name ASC;`)  
+- The invalid artist name **"Bongo bongo"** does **not** exist in the database (confirmed via database query)  
 - User is on the Artists page or Home page with the search bar visible  
 
 ## Test Data
@@ -25,6 +29,7 @@ Verify that the Artists search functionality correctly displays **no results** w
 - No matching songs should be displayed  
 - No matching albums should be displayed  
 - A clear **“None found”** or equivalent empty‑state message should appear in each section  
+- Database confirms that **"Bongo bongo"** does not exist in the `artists` table  
 
 ## Actual Result
 - **Songs:** Displays *“None found”* correctly  
@@ -32,10 +37,12 @@ Verify that the Artists search functionality correctly displays **no results** w
 - **Albums:** Incorrectly displays an unrelated album (**Chevalerie EP by AKMV‑18**)  
 - Search results do **not** reflect the invalid query  
 - System returns **false positives** instead of an empty result set  
+- Database confirms **"Bongo bongo"** does not exist, so UI behavior is incorrect  
 
 ## Status
-❌ **Failed**
+❌ 
 
 ## Evidence
-- Screenshot: [TC06](/Manual-Testing-Project/Evidence/TC06.png)
+- Screenshot: [TC06-1](/Manual-Testing-Project/Evidence/TC06-1.png)
+- Screenshot: [TC06-2](/Manual-Testing-Project/Evidence/TC06-2.png)
 - Related Bug Report: *To be created* (e.g., **BR02‑ARTISTS‑Invalid‑Search‑Returns‑Incorrect‑Results.md**)
