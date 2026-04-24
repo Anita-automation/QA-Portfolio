@@ -15,13 +15,13 @@ Verify that the Artists search functionality returns the same results regardless
 - "Chad"
 
 ## Steps
-1. Enter **"taylor"** into the search field  
+1. Enter **"chad"** into the search field  
 2. Observe the artist results  
 3. Clear the search field  
-4. Enter **"TAYLOR"**  
+4. Enter **"CHAD"**  
 5. Observe the artist results  
 6. Clear the search field  
-7. Enter **"Taylor"**  
+7. Enter **"Chad"**  
 8. Observe the artist results  
 9. Compare all three result sets
 
