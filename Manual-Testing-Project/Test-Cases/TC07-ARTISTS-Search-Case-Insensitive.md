@@ -7,12 +7,12 @@ Verify that the Artists search functionality returns the same results regardless
 - Valid Koel user account  
 - User is logged into the application  
 - User is on the Artists page or Home page with the search bar visible  
-- At least one known artist exists in the system (e.g., “Taylor Swift”)
+- At least one known artist exists in the system (e.g., “Chad Crouch”)
 
 ## Test Data
-- "taylor"  
-- "TAYLOR"  
-- "Taylor"
+- "chad"  
+- "CHAD"  
+- "Chad"
 
 ## Steps
 1. Enter **"taylor"** into the search field  
@@ -38,4 +38,6 @@ Verify that the Artists search functionality returns the same results regardless
 ✅ **Passed**  
 
 ## Evidence
+- Screenshot: [TC07](/Manual-Testing-Project/Evidence/TC07.png)
+- Screenshot: [TC07](/Manual-Testing-Project/Evidence/TC07.png)
 - Screenshot: [TC07](/Manual-Testing-Project/Evidence/TC07.png)
