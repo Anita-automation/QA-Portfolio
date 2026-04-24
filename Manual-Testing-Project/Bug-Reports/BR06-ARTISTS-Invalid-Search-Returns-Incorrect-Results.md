@@ -1,5 +1,3 @@
-# BR06-KOEL-ARTISTS-Invalid-Search-Returns-Incorrect-Results.md
-
 # Bug Report: Koel | Artists | Invalid search returns unrelated results
 
 ## Summary
@@ -42,10 +40,6 @@ The UI behavior does not match the database records, which confirm that the inva
 - **Albums:** Incorrectly displays unrelated album (**Chevalerie EP by AKMV‑18**)  
 - UI returns **false positives** despite the invalid artist not existing in the database  
 
-## Impact
-- Search functionality is unreliable  
-- Users may see incorrect or misleading results  
-- Data integrity between UI and database is inconsistent  
-
 ## Evidence
-- Screenshot: TC06‑1 (UI shows unrelated results for invalid 
+- Screenshot: TC06‑1 (UI shows unrelated results for invalid
+- Screenshot: TC06‑1 (UI shows unrelated results for invalid
