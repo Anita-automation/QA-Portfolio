@@ -6,7 +6,6 @@ Verify that the Artists search functionality correctly displays **no results** w
 ## Preconditions
 - Valid Koel user account  
 - User is logged into Koel: https://qa.koel.app/#!/home  
-- Artists exist in the database  
 - User is on the Artists page or Home page with the search bar visible  
 
 ## Test Data
