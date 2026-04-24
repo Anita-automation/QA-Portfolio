@@ -37,5 +37,5 @@ Verify that the Artists search functionality correctly displays **no results** w
 ❌ **Failed**
 
 ## Evidence
-- Screenshot: TC02‑1 (invalid search returns unrelated results)  
+- Screenshot: [TC06](/Manual-Testing-Project/Evidence/TC06.png)
 - Related Bug Report: *To be created* (e.g., **BR02‑ARTISTS‑Invalid‑Search‑Returns‑Incorrect‑Results.md**)
