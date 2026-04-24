@@ -35,4 +35,7 @@ Verify that the Artists search functionality returns the same results regardless
 - Case‑insensitive search confirmed
 
 ## Status
-✅ **Passed**
+✅ **Passed**  
+
+## Evidence
+- Screenshot: [TC06-1](/Manual-Testing-Project/Evidence/TC06-1.png)
