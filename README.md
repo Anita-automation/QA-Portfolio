@@ -9,7 +9,7 @@ This project focuses on the core functional and authentication scenarios require
 
 ### 1. Manual Testing Project
 This project demonstrates UI and functional testing using Jira/Zephyr within a structured QA workflow. It includes detailed test cases, exploratory testing sessions, and defect reporting with clear reproduction steps and evidence. The focus is on validating core user flows, identifying usability issues, and ensuring the application behaves as expected across different scenarios. Screenshots, bug reports, and test execution logs are included to show real‑world QA documentation.  
-➡️ View Project
+➡️ **View Project:** https://github.com/AnitaSurewicz/QA-Portfolio/tree/main/Manual-Testing-Project
 
 ### 2. API Testing Project
 This project covers REST API testing using Postman, focusing on authentication, negative testing, and validation of the GET `/api/song/{song_id}/info` endpoint. It includes structured test cases, bug reports, and evidence screenshots, along with analysis of incorrect tokens, invalid IDs, and method handling. The project demonstrates how to verify API behavior, document defects, and validate backend logic in a realistic QA environment.  
