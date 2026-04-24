@@ -19,7 +19,8 @@ This project covers REST API testing using Postman, focusing on authentication, 
 - Test case design  
 - Bug reporting  
 - Postman  
-- Jira  
+- Jira
+- DBeaver
 - Exploratory testing  
 - AI-Augmented Testing  
 
