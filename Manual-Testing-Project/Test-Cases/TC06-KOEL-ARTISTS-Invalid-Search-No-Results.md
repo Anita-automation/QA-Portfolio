@@ -37,7 +37,7 @@ Verify that the Artists search functionality correctly displays **no results** w
 - Database confirms **"Bongo bongo"** does not exist, so UI behavior is incorrect  
 
 ## Status
-❌ 
+❌ **Failed**
 
 ## Evidence
 - Screenshot: [TC06-1](/Manual-Testing-Project/Evidence/TC06-1.png)
