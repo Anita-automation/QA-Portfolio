@@ -26,13 +26,13 @@ Verify that the Artists search functionality returns the same results regardless
 9. Compare all three result sets
 
 ## Expected Result
-- The same artist appears for all three search variations  
-- Search results do not change based on letter casing  
-- No additional or missing artists appear between searches
+- The same artist appears for all three search variations.  
+- Search results do not change based on letter casing.  
+- No additional or missing artists appear between searches.
 
 ## Actual Result
-- Search results are identical across all three inputs  
-- Case‑insensitive search confirmed
+- Search results are identical across all three inputs.  
+- Case‑insensitive search confirmed.
 
 ## Status
 ✅ **Passed**  
