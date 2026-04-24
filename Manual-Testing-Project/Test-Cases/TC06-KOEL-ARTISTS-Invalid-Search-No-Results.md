@@ -36,7 +36,6 @@ Verify that the Artists search functionality correctly displays **no results** w
 - **Artists:** Incorrectly displays an unrelated artist (**Metre**)  
 - **Albums:** Incorrectly displays an unrelated album (**Chevalerie EP by AKMV‑18**)  
 - Search results do **not** reflect the invalid query  
-- System returns **false positives** instead of an empty result set  
 - Database confirms **"Bongo bongo"** does not exist, so UI behavior is incorrect  
 
 ## Status
