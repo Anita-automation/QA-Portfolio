@@ -30,15 +30,15 @@ The UI behavior does not match the database records, which confirm that the inva
    - Albums  
 
 ## Expected Result
-- No artists, songs, or albums should be displayed  
-- UI should show **“None found”** or an equivalent empty‑state message  
-- UI results should match the database (invalid artist should not return any results)
+- No artists, songs, or albums should be displayed.  
+- UI should show **“None found”** or an equivalent empty‑state message.  
+- UI results should match the database (invalid artist should not return any results).
 
 ## Actual Result
-- **Songs:** Correctly displays *“None found”*  
-- **Artists:** Incorrectly displays unrelated artist (**Metre**)  
-- **Albums:** Incorrectly displays unrelated album (**Chevalerie EP by AKMV‑18**)  
-- UI returns **false positives** despite the invalid artist not existing in the database  
+- **Songs:** Correctly displays *“None found”*.  
+- **Artists:** Incorrectly displays unrelated artist (**Metre**).  
+- **Albums:** Incorrectly displays unrelated album (**Chevalerie EP by AKMV‑18**).  
+- UI returns **false positives** despite the invalid artist not existing in the database.  
 
 ## Evidence
 - Screenshot: [TC06-1](/Manual-Testing-Project/Evidence/TC06-1.png)
