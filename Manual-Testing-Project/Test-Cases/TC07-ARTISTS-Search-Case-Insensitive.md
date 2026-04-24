@@ -38,6 +38,6 @@ Verify that the Artists search functionality returns the same results regardless
 ✅ **Passed**  
 
 ## Evidence
-- Screenshot: [TC07](/Manual-Testing-Project/Evidence/TC07.png)
-- Screenshot: [TC07](/Manual-Testing-Project/Evidence/TC07.png)
-- Screenshot: [TC07](/Manual-Testing-Project/Evidence/TC07.png)
+- Screenshot: [TC07-1](/Manual-Testing-Project/Evidence/TC07-1.png)
+- Screenshot: [TC07-2](/Manual-Testing-Project/Evidence/TC07-2.png)
+- Screenshot: [TC07-3](/Manual-Testing-Project/Evidence/TC07-3.png)
