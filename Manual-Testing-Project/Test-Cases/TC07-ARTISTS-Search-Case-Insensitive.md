@@ -1,6 +1,4 @@
-# TC08-KOEL-ARTISTS-Search-Case-Insensitive.md
-
-# Test Case: Koel | Artists | Search is case insensitive
+# TC07: Koel | Artists | Search is case insensitive
 
 ## Purpose
 Verify that the Artists search functionality returns the same results regardless of letter casing, ensuring a user‑friendly and consistent search experience.
