@@ -70,10 +70,12 @@ Documented defects include:
 All screenshots used in test cases and bug reports are stored in the **Evidence** folder.
 
 ## Repository Structure
+```
 Koel-Artists-Manual-Testing/
 ├── Test-Cases/
 ├── Bug-Reports/
 └── Evidence/
+```
 
 ## Purpose of This Project
 This project demonstrates:
@@ -84,4 +86,4 @@ This project demonstrates:
 - Defect reporting with clear reproduction steps  
 - Evidence‑based documentation  
 - Validation of UI behaviour against database records  
-- Organised QA documentation suitable for a professional portfolio 
+- Organised QA documentation suitable for a professional portfolio  
