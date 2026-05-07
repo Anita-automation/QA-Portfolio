@@ -15,12 +15,12 @@ When logging in with an email missing the @ symbol, Koel does not display the ex
 4. Click “Log in”
 
 ## Expected Result
-- Koel displays the validation message: **“Email format is incorrect.”**
+- Koel displays the validation message: “Email format is incorrect.”
 
 ## Actual Result
 - No Koel validation message appears.
 - Browser displays native tooltip:  
-  *“Please include an '@' in the email address…”*
+  “Please include an '@' in the email address…”
 
 ## Impact
 - UI validation is inconsistent.
