@@ -15,7 +15,7 @@
 - User remains on the Login page.
 
 ## Actual Result (from execution)
-- No Koel validation message is displayed.
+- No “Email format is incorrect” validation message is displayed.
 - Browser shows native HTML5 tooltip:  
   “Please include an '@' in the email address…”
 
