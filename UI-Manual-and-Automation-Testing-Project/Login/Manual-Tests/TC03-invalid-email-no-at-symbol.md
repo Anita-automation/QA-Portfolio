@@ -11,11 +11,11 @@
 3. Click the “Log in” button.
 
 ## Expected Result
-- The UI displays the validation message: “Email format is incorrect.”
+- The UI displays the message: “Email format is incorrect.”
 - User remains on the Login page.
 
 ## Actual Result (from execution)
-- No “Email format is incorrect” validation message is displayed.
+- No “Email format is incorrect” message is displayed.
 - Browser shows native HTML5 tooltip:  
   “Please include an '@' in the email address…”
 
