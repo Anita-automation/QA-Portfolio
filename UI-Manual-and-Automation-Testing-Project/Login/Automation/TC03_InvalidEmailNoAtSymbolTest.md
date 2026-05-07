@@ -3,8 +3,8 @@
 **Scenario**  
 Validate that Koel displays the correct error message when the user enters an email address without the @ symbol.
 
-**Covered In**  
-- TC03_InvalidEmailNoAtSymbolTest.java
+**Related Manual Test Case**  
+- TC03-invalid-email-no-at-symbol.md
 
 **Automation Logic**  
 - Navigate to https://qa.koel.app/  
