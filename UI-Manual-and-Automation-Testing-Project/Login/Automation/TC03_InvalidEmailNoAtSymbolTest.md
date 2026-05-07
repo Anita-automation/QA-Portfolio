@@ -6,6 +6,9 @@ Validate that Koel displays the correct error message when the user enters an em
 **Related Manual Test Case**  
 - TC03-invalid-email-no-at-symbol.md
 
+**Related Bug Report**  
+- BR03-missing-at-symbol-error-not-shown.md
+  
 **Automation Logic**  
 - Navigate to https://qa.koel.app/  
 - Enter invalid email: anita.surewicztestpro.io  
