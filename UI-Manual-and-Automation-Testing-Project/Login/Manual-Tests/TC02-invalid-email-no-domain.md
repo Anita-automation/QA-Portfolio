@@ -17,7 +17,7 @@
 ## Actual Result (from execution)
 - No “Email format is incorrect” message is displayed.
 - Browser shows native HTML5 tooltip:  
-  “Please enter a part following '@'. 'test@' is incomplete.”
+  “Please enter a part following '@'. 'anita.surewicz@' is incomplete.”
 
 ## Status
 ❌ FAIL
