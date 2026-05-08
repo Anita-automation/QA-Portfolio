@@ -11,7 +11,7 @@ Validate that Koel displays the correct error message when the user enters an em
 
 ## Automation Logic
 - Navigate to https://qa.koel.app/
-- Enter invalid email: test@
+- Enter invalid email: anita.surewicz@
 - Enter valid password
 - Click “Log In”
 - Assert:
