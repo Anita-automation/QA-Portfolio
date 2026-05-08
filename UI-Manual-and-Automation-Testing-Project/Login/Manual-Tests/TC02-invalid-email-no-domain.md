@@ -6,7 +6,7 @@
 - User is on the Koel Login page: https://qa.koel.app/
 
 ## Test Steps
-1. Enter an invalid email missing the domain (e.g., test@).
+1. Enter an invalid email missing the domain (e.g., anita.surewicz@).
 2. Enter a valid password.
 3. Click the “Log in” button.
 
