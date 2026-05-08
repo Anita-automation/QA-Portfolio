@@ -20,4 +20,4 @@
 - User was redirected to the Homepage.
 
 ## Status
-✔️ PASS
+🟢 PASS
