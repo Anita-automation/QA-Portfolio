@@ -56,8 +56,6 @@ UI-Manual-and-Automation-Testing-Project/
         └── BR06/
 
 
-
-
 ## 🧪 Manual Test Cases
 
 Located in **Manual-Tests**.
@@ -140,4 +138,4 @@ This project demonstrates:
 - Page Object Model (POM) structure  
 - Evidence‑based defect reporting  
 - Full traceability between manual tests, automation tests, and bug reports  
-- Clean, organised QA documentation suitable for a professional 
+- Clean, organised QA documentation suitable for a professional portfolio
