@@ -4,7 +4,7 @@
 Validate that Koel successfully logs in a user with a valid email and correct password.
 
 ## Related Manual Test Case
-- TC01-valid-email-password.md
+- TC01-valid-email-and-password.md
 
 ## Automation Logic
 - Navigate to https://qa.koel.app/
