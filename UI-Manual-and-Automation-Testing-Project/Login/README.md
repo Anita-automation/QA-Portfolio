@@ -8,12 +8,13 @@ https://qa.koel.app
 ---
 
 ## 📌 Project Overview
+
 The goal of this project was to verify that users can authenticate correctly and that invalid inputs are handled consistently.
 
-User Story:  
+**User Story:**  
 “As a user, I want to log into the app securely, so that I can access my music.”
 
-Key acceptance criteria included:
+**Acceptance criteria included:**
 
 - Successful login with valid credentials  
 - Validation of incorrect email formats  
@@ -53,7 +54,6 @@ UI-Manual-and-Automation-Testing-Project/
         ├── BR04/
         ├── BR05/
         └── BR06/
-
 ---
 
 ## 🧪 Manual Test Cases
