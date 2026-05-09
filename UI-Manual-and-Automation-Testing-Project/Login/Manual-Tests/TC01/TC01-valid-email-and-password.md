@@ -24,7 +24,7 @@
 
 ## Traceability
 - Automation Test:  
-  [TC01 Automation](ca://s?q=Open_TC01_Automation_Folder)
+  [TC01 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC01/TC01_ValidLoginTest.md)
 
 ## Evidence
 - [UI Before Login](ca://s?q=Open_TC01_valid-email-password_UI-before)
