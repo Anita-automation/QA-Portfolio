@@ -25,7 +25,7 @@ It includes:
 - Linked bug reports for failed scenarios  
 - Manual test cases, automation scripts, and defect documentation for full traceability  
 
-This project demonstrates how manual testing, API knowledge, and automation engineering come together to create a maintainable, scalable QA workflow.
+This project demonstrates how manual testing and automation engineering come together to create a maintainable, scalable QA workflow.
 
 ## Skills Demonstrated
 
