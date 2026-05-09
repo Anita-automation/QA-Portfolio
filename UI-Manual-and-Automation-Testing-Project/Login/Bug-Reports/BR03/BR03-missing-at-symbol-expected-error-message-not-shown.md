@@ -26,6 +26,7 @@ When logging in with an email missing the @ symbol, Koel does not display the ex
 - UI validation is inconsistent.
 - Users receive browser-level feedback instead of application-level messaging.
 
-## Attachments
-- Screenshot: Koel UI tooltip  
-- Screenshot: IntelliJ test execution
+## Evidence
+
+- Screenshot: [TC03 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/TC03_missing-at-symbol_IntelliJ-Passed.png)
+- Screenshot: [TC03 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/TC03_missing-at-symbol_Tooltip.png)
