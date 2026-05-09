@@ -23,6 +23,10 @@
 ## Status
 ❌ FAIL
 
+## Traceability
+- Automation Test: [TC06 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC06/TC06_ValidEmailIncorrectPasswordTest.md)
+- Bug Report: [BR06 – Incorrect Password Error Not Shown](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/BR06-incorrect-password-error-not-shown.md)
+
 ## Evidence
 
 - Screenshot: [TC06 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_IntelliJ-invalidPasswordShown.png)
