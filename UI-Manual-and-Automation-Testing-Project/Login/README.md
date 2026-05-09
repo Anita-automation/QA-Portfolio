@@ -1,6 +1,6 @@
 # Koel App — Login Feature (Manual & Automation Testing)
 
-This repository contains **manual UI test cases**, **Selenium automation tests**, and **bug reports** for validating the **Login functionality** of the Koel music streaming application.
+This repository contains manual UI test cases, Selenium automation tests, and bug reports for validating the Login functionality of the Koel music streaming application.
 
 All testing was performed against the Koel QA environment:  
 https://qa.koel.app
@@ -27,33 +27,34 @@ The goal of this project was to verify that users can authenticate correctly and
 
 ## 📁 Repository Structure
 
-```text
-UI-Manual-and-Automation-Testing-Project/
-└── Login/
-    ├── Manual-Tests/
-    │   ├── TC01/
-    │   ├── TC02/
-    │   ├── TC03/
-    │   ├── TC04/
-    │   ├── TC05/
-    │   ├── TC06/
-    │   └── TC07/
-    │
-    ├── Automation/
-    │   ├── TC01/
-    │   ├── TC02/
-    │   ├── TC03/
-    │   ├── TC04/
-    │   ├── TC05/
-    │   ├── TC06/
-    │   └── TC07/
-    │
-    └── Bug-Reports/
-        ├── BR02/
-        ├── BR03/
-        ├── BR04/
-        ├── BR05/
-        └── BR06/
+UI-Manual-and-Automation-Testing-Project/  
+└── Login/  
+    ├── Manual-Tests/  
+    │   ├── TC01/  
+    │   ├── TC02/  
+    │   ├── TC03/  
+    │   ├── TC04/  
+    │   ├── TC05/  
+    │   ├── TC06/  
+    │   └── TC07/  
+    │  
+    ├── Automation/  
+    │   ├── TC01/  
+    │   ├── TC02/  
+    │   ├── TC03/  
+    │   ├── TC04/  
+    │   ├── TC05/  
+    │   ├── TC06/  
+    │   └── TC07/  
+    │  
+    └── Bug-Reports/  
+        ├── BR02/  
+        ├── BR03/  
+        ├── BR04/  
+        ├── BR05/  
+        └── BR06/  
+
+---
 
 ## 🧪 Manual Test Cases
 
@@ -70,7 +71,7 @@ Each test case includes:
 - Evidence (IntelliJ screenshot only)  
 - Traceability (linked at the bottom)
 
-Covers:
+**Covers:**
 
 - Valid login  
 - Invalid email formats  
@@ -94,7 +95,7 @@ Each automation test includes:
   - Manual Test  
   - Bug Report (if failed)
 
-Built using:
+**Built using:**
 
 - Selenium WebDriver  
 - Java  
@@ -119,7 +120,7 @@ Each bug report includes:
 - Evidence (UI + tooltip + IntelliJ screenshots)  
 - Traceability (linked at the bottom)
 
-Documented defects include:
+**Documented defects include:**
 
 - Missing validation messages for invalid email formats  
 - Missing validation for empty fields  
