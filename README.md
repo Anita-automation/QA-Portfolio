@@ -13,16 +13,30 @@ This project demonstrates UI and functional testing using Jira/Zephyr within a s
 ### 2. API Testing Project
 This project covers REST API testing using Postman, focusing on authentication, negative testing, and validation of the GET `/api/song/{song_id}/info` endpoint. It includes structured test cases, bug reports, and evidence screenshots, along with analysis of incorrect tokens, invalid IDs, and method handling. The project demonstrates how to verify API behavior, document defects, and validate backend logic in a realistic QA environment.  
 
+### 3. UI Automation Project – Login Feature (Selenium + TestNG + Java)
+This project automates the Login functionality of a web application using Selenium WebDriver, TestNG, and Java.  
+It includes:
+
+- A structured Page Object Model (POM)  
+- Automated test cases mirroring the manual suite  
+- Execution results and pass/fail analysis  
+- Linked bug reports for failed scenarios  
+- Manual test cases, automation scripts, and defect documentation for full traceability  
+
+This project demonstrates how manual testing, API knowledge, and automation engineering come together to create a maintainable, scalable QA workflow.
+
 ## Skills Demonstrated
+
 - Manual testing  
 - API testing  
+- UI automation (Selenium, TestNG, Java)  
 - Test case design  
 - Bug reporting  
 - Postman  
-- Jira/Zephyr
-- DBeaver
+- Jira/Zephyr  
+- DBeaver  
 - Exploratory testing  
-- AI-Augmented Testing  
+- AI‑Augmented Testing  
 
 ### AI-Augmented Testing
 I used AI tools to:
