@@ -7,7 +7,7 @@ Validate that Koel displays the correct error message when the user enters an em
 - TC04-invalid-email-no-dot-symbol.md
 
 ## Related Bug Report
-- BR04-missing-dot-symbol-error-not-shown.md
+- BR04-missing-dot-symbol-expected-error-message-not-shown.md
 
 ## Automation Logic
 - Navigate to https://qa.koel.app/
