@@ -28,7 +28,8 @@ Koel displays the message: “Couldn't log you in.”
 - UI validation is inconsistent across error scenarios.
 - Automated tests cannot locate a CSS‑selectable error element.
 
-## Attachments
-- Screenshot: Login form with incorrect password
-- Screenshot: Red outline + shake behavior
-- Screenshot: IntelliJ test execution
+## Evidence
+
+- Screenshot: [TC06 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_IntelliJ-invalidPasswordShowsErrorState-Passed.png)
+- Screenshot: [TC06 – IntelliJ Login Attempt (Valid Email + Invalid Password)](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_IntelliJ-loginValidEmailInvalidPassword-Passed.png)
+- Screenshot: [TC06 – UI Error State](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_UI.png)
