@@ -30,7 +30,7 @@ This project demonstrates how manual testing and automation engineering come tog
 ## Skills Demonstrated
 
 - Manual testing  
-- API testing  
+- API testing (DBeaver)  
 - UI automation (Selenium, TestNG, Java)  
 - Test case design  
 - Bug reporting  
