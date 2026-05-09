@@ -23,7 +23,7 @@
 ❌ FAIL
 
 ## Traceability
-- Automation Test: [TC03 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC03/TC03_InvalidEmailNoAtSymbolTest.md)
+- Automation Test: [TC03 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC03_InvalidEmailNoAtSymbolTest.md)
 - Bug Report: [BR03 – Missing @ Symbol](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/BR03-missing-at-symbol-expected-error-message-not-shown.md)
 
 ## Evidence
