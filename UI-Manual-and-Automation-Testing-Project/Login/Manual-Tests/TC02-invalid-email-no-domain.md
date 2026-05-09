@@ -21,3 +21,10 @@
 
 ## Status
 ❌ FAIL
+
+## Traceability
+- Automation Test: [TC02 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC02/TC02_InvalidEmailNoDomainTest.md)
+- Bug Report: [BR02 – Invalid Email Missing Domain](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/BR02-missing-domain-expected-error-message-not-shown.md)
+
+## Evidence
+- Screenshot: [IntelliJ – Failed](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC02/TC02_InvalidEmailNoDomain_IntelliJ-Failed.png)
