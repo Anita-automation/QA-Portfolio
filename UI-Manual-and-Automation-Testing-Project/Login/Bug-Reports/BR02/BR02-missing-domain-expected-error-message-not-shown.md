@@ -28,7 +28,7 @@ Koel displays the message: “Email format is incorrect.”
 - Users receive browser‑level feedback instead of application‑level messaging.  
 - Automated tests cannot locate a CSS‑selectable error element.
 
-## Attachments
-- Screenshot: Browser tooltip displayed  
-- Screenshot: IntelliJ test execution  
-- Screenshot: Login page with invalid email entered
+## Evidence
+
+- Screenshot: [TC02 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02_missing-domain_IntelliJ-Passed.png)
+- Screenshot: [TC02 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02_missing-domain_Tooltip.png)
