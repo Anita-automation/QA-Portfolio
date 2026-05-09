@@ -55,6 +55,9 @@ UI-Manual-and-Automation-Testing-Project/
         ├── BR05/
         └── BR06/
 
+
+
+
 ## 🧪 Manual Test Cases
 
 Located in **Manual-Tests**.
@@ -70,7 +73,7 @@ Each test case includes:
 - Evidence (IntelliJ screenshot only)  
 - Traceability (linked at the bottom)
 
-**Covers:**
+Covers:
 
 - Valid login  
 - Invalid email formats  
@@ -94,7 +97,7 @@ Each automation test includes:
   - Manual Test  
   - Bug Report (if failed)
 
-**Built using:**
+Built using:
 
 - Selenium WebDriver  
 - Java  
@@ -119,7 +122,7 @@ Each bug report includes:
 - Evidence (UI + tooltip + IntelliJ screenshots)  
 - Traceability (linked at the bottom)
 
-**Documented defects include:**
+Documented defects include:
 
 - Missing validation messages for invalid email formats  
 - Missing validation for empty fields  
@@ -137,4 +140,4 @@ This project demonstrates:
 - Page Object Model (POM) structure  
 - Evidence‑based defect reporting  
 - Full traceability between manual tests, automation tests, and bug reports  
-- Clean, organised QA documentation suitable for a professional portfolio
+- Clean, organised QA documentation suitable for a professional 
