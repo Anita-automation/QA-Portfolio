@@ -29,7 +29,7 @@ Koel displays the message: “Email format is incorrect.”
 - Users receive visual feedback only (shake + red outline), not a clear error message.
 - Automated tests cannot locate a CSS‑selectable error element.
 
-## Attachments
-- Screenshot: Login form with invalid email
-- Screenshot: Red outline + shake behavior
-- Screenshot: IntelliJ test execution
+## Evidence
+
+- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_IntelliJ-Passed.png)
+- Screenshot: [TC04 – UI Error State](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_UI.png)
