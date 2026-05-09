@@ -6,7 +6,7 @@
 - User is on the Koel Login page: https://qa.koel.app/
 
 ## Test Steps
-1. Enter an invalid email missing the dot symbol (e.g., anitasurewicz@testpro.io).
+1. Enter an invalid email missing the dot symbol (e.g., anita.surewicz@testproio).
 2. Enter a valid password.
 3. Click the “Log in” button.
 
