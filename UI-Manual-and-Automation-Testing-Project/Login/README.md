@@ -27,7 +27,7 @@ The goal of this project was to verify that users can authenticate correctly and
 
 ## 📁 Repository Structure
 
-UI-Manual-and-Automation-Testing-Project/  
+``` UI-Manual-and-Automation-Testing-Project/  
 └── Login/  
     ├── Manual-Tests/  
     │   ├── TC01/  
@@ -52,7 +52,7 @@ UI-Manual-and-Automation-Testing-Project/
         ├── BR03/  
         ├── BR04/  
         ├── BR05/  
-        └── BR06/  
+        └── BR06/  ```
 
 ---
 
