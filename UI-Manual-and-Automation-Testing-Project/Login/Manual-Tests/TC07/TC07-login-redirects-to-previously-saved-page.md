@@ -24,3 +24,12 @@
 
 ## Status
 🟢 PASS
+
+## Traceability
+- Automation Test:  
+  [TC07 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC07/TC07_LoginRedirectsToSavedPageTest.md)
+
+## Evidence
+- [UI Before Redirect Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC07/TC07_redirect-login_UI-before.png)
+- [UI After Redirect Login](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC07/TC07_redirect-login_UI-after.png)
+- [IntelliJ – Passed](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC07/TC07_redirect-login_IntelliJ-Passed.png)
