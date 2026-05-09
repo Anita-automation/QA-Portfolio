@@ -1,10 +1,10 @@
 # TC07 – Login Redirects User to Previously Saved Page – Automation
 
+## Traceability
+- Manual Test: [TC07 – Login Redirects to Previously Saved Page](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC07/TC07-login-redirects-to-previously-saved-page.md)
+
 ## Scenario
 Validate that when a logged‑out user attempts to access a protected page, Koel redirects them to the Login page, and after successful login, returns them to the originally requested URL.
-
-## Related Manual Test Case
-- TC07-login-redirects-to-previously-saved-page.md
 
 ## Automation Logic
 - Navigate directly to https://qa.koel.app/#/albums while logged out.
@@ -26,9 +26,3 @@ Validate that when a logged‑out user attempts to access a protected page, Koel
 ## Reason
 This test validates Koel’s redirect logic for protected routes.  
 The application correctly preserved the intended destination and returned the user to it after authentication.
-
-## Evidence
-- Screenshot: Redirect to Login page when accessing /albums
-- Screenshot: Successful login
-- Screenshot: User redirected to /albums (protected page)
-- Screenshot: IntelliJ test execution (PASSED)
