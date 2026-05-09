@@ -23,15 +23,10 @@
 🟢 PASS
 
 ## Traceability
-
-- **Automation Test:**  
+- Automation Test:  
   [TC01 Automation](ca://s?q=Open_TC01_Automation_Folder)
 
-- **Screenshots:**  
-  - [UI Before Login](ca://s?q=Open_TC01_valid-email-password_UI-before)  
-  - [UI After Login](ca://s?q=Open_TC01_valid-email-password_UI-after)  
-
 ## Evidence
-
-- **Automation Result:**  
-  [IntelliJ – Passed](ca://s?q=Open_TC01_valid-email-password_IntelliJ-Passed)
+- [UI Before Login](ca://s?q=Open_TC01_valid-email-password_UI-before)
+- [UI After Login](ca://s?q=Open_TC01_valid-email-password_UI-after)
+- [IntelliJ – Passed](ca://s?q=Open_TC01_valid-email-password_IntelliJ-Passed)
