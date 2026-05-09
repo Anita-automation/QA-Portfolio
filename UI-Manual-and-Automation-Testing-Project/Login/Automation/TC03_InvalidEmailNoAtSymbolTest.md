@@ -7,7 +7,7 @@ Validate that Koel displays the correct error message when the user enters an em
 - TC03-invalid-email-no-at-symbol.md
 
 **Related Bug Report**  
-- BR03-missing-at-symbol-error-not-shown.md
+- BR03-missing-at-symbol-expected-error-message-not-shown.md
   
 **Automation Logic**  
 - Navigate to https://qa.koel.app/  
