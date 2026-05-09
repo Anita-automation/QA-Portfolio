@@ -27,4 +27,5 @@
 - Bug Report: [BR02 – Invalid Email Missing Domain](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/BR02-missing-domain-expected-error-message-not-shown.md)
 
 ## Evidence
-- Screenshot: [IntelliJ – Failed](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC02/TC02_InvalidEmailNoDomain_IntelliJ-Failed.png)
+- Screenshot: [TC02 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02_missing-domain_IntelliJ-Passed.png)
+- Screenshot: [TC02 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR02/TC02_missing-domain_Tooltip.png)
