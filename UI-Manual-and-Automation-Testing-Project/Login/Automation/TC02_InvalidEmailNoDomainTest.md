@@ -4,10 +4,10 @@
 Validate that Koel displays the correct error message when the user enters an email address missing the domain.
 
 ## Related Manual Test Case
-- TC02-invalid-email-missing-domain.md
+- TC02-invalid-email-no-domain.md
 
 ## Related Bug Report
-- BR02-missing-domain-error-not-shown.md
+- BR02-missing-domain-expected-error-message-not-shown.md
 
 ## Automation Logic
 - Navigate to https://qa.koel.app/
