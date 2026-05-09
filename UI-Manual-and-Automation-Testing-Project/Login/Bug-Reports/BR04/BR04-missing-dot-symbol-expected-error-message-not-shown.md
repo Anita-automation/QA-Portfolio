@@ -11,7 +11,7 @@ Instead, the login form shakes and shows a red outline, but no text feedback is 
 
 ## Steps to Reproduce
 1. Navigate to https://qa.koel.app/
-2. Enter an invalid email missing the dot symbol (e.g., anitasurewicz@testpro.io)
+2. Enter an invalid email missing the dot symbol (e.g., anita.surewicz@testproio)
 3. Enter a valid password
 4. Click “Log in”
 
