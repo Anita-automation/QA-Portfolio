@@ -27,9 +27,5 @@
 
 ## Evidence
 
-## Evidence
-
-## Evidence
-
 - Screenshot: [TC05 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields_IntelliJ-Passed.png)
-- Screenshot: [TC05 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields_Tooltip.png)
+- Screenshot: [TC05 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields-Tooltip.png)
