@@ -29,6 +29,7 @@
 
 ## Evidence
 
-- Screenshot: [TC06 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_IntelliJ-invalidPasswordShown.png)
-- Screenshot: [TC06 – IntelliJ Login Attempt (Valid Email + Invalid Password)](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_IntelliJ-loginValidEmailInvalidPassword.png)
-- Screenshot: [TC06 – UI Error State](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/TC06_incorrect-password_UI.png)
+## Evidence
+
+- Screenshot: [TC05 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields_IntelliJ-Passed.png)
+- Screenshot: [TC05 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields_Tooltip.png)
