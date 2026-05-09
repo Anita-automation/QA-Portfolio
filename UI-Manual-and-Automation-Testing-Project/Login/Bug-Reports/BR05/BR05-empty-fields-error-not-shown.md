@@ -29,7 +29,7 @@ Koel displays the message: “Email format is incorrect.”
 - Users receive browser‑level feedback instead of application‑level messaging.
 - Automated tests cannot locate a CSS‑selectable error element.
 
-## Attachments
-- Screenshot: Browser tooltip displayed
-- Screenshot: Login page with empty fields
-- Screenshot: IntelliJ test execution
+## Evidence
+
+- Screenshot: [TC05 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields_IntelliJ-Passed.png)
+- Screenshot: [TC05 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR05/TC05_empty-fields_Tooltip.png)
