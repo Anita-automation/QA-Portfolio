@@ -2,7 +2,7 @@
 
 # QA Portfolio – Anita Surewicz
 
-My portfolio currently includes a Manual Testing project (UI + functional testing in Jira/Zephyr), an API Testing project (Postman, authentication testing, negative testing), and an UI Automation project covering the Login feature of a web application using Selenium, TestNG, and Java. I also used DBeaver for basic database validation and backend data checks during testing. I will continue expanding the automation suite with additional scenarios and features. These manual, API, and automation foundations ensure my work is structured, maintainable, and aligned with real QA workflows. All testing work has been completed during the TestPro Internship and through independent study.
+My portfolio currently includes a Manual Testing project (UI + functional testing in Jira/Zephyr), an API Testing project (Postman, DBeaver, authentication testing, negative testing), and an UI Automation project covering the Login feature of a web application using Selenium, TestNG, and Java. I will continue expanding the automation suite with additional scenarios and features. These manual, API, and automation foundations ensure my work is structured, maintainable, and aligned with real QA workflows. All testing work has been completed during the TestPro Internship and through independent study.
 
 ### Scope Note
 These projects focus on the core functional and authentication scenarios required for the user stories. While additional edge cases and advanced security tests could be explored, the current coverage is intentionally scoped for portfolio demonstration purposes. The goal is to show clear, structured QA testing, defect reporting, and evidence‑based validation.
