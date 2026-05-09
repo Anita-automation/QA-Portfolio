@@ -1,7 +1,7 @@
 # TC01 – Valid Email and Password – Automation
 
 ## Traceability
-- Manual Test: [TC01 – Valid Email and Password](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC01-valid-email-and-password.md)
+- Manual Test: [TC01 – Valid Email and Password](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC01/TC01-valid-email-and-password.md)
 
 ## Scenario
 Validate that Koel successfully logs in a user with a valid email and correct password.
