@@ -1,13 +1,11 @@
 # TC06 – Valid Email and Incorrect Password – Automation
 
+## Traceability
+- Manual Test: [TC06 – Valid Email and Incorrect Password](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC06-valid-email-and-incorrect-password.md)
+- Bug Report: [BR06 – Incorrect Password Error Not Shown](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR06/BR06-incorrect-password-error-not-shown.md)
+
 ## Scenario
 Validate that Koel displays the correct error message when the user enters a valid email but an incorrect password.
-
-## Related Manual Test Case
-- TC06-valid-email-and-incorrect-password.md
-
-## Related Bug Report
-- BR06-incorrect-password-error-not-shown.md
 
 ## Automation Logic
 - Navigate to https://qa.koel.app/
@@ -26,8 +24,3 @@ Validate that Koel displays the correct error message when the user enters a val
 Koel does not render a CSS‑selectable validation message for incorrect passwords.  
 The login form shakes and shows a red outline, but no text message is displayed.  
 Selenium cannot locate any error element.
-
-## Evidence
-- Screenshot: Login page with incorrect password entered
-- Screenshot: Red outline + shake behavior
-- Screenshot: IntelliJ test execution
