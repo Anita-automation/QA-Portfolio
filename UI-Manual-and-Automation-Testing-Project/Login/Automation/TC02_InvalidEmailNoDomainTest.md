@@ -1,10 +1,11 @@
 # TC02 – Invalid Email (Missing Domain) – Automation
 
+## Traceability
+- Manual Test: [TC02 – Invalid Email (Missing Domain)](ca://s?q=Open_TC02_manual_test)
+- Bug Report: [BR02 – Missing Domain Error Message Not Shown](ca://s?q=Open_BR02_bug_report)
+
 ## Scenario
 Validate that Koel displays the correct error message when the user enters an email address missing the domain.
-
-## Related Manual Test Case
-- TC02-invalid-email-no-domain.md
 
 ## Related Bug Report
 - BR02-missing-domain-expected-error-message-not-shown.md
@@ -25,8 +26,3 @@ Validate that Koel displays the correct error message when the user enters an em
 ## Reason
 Koel does not render a CSS‑selectable validation message for this error state.  
 Only the browser’s native HTML5 tooltip appears, which cannot be located via Selenium.
-
-## Evidence
-- Screenshot: Browser tooltip displayed
-- Screenshot: IntelliJ test execution
-- Screenshot: Login page with invalid email entered
