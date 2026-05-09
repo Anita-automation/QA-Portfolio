@@ -64,12 +64,11 @@ Each test case includes:
 
 - Objective  
 - Preconditions  
-- Test Data  
-- Steps  
+- Test Steps 
 - Expected Result  
 - Actual Result  
-- Evidence (IntelliJ screenshot only)  
-- Traceability (linked at the bottom)
+- Traceability
+- Evidence
 
 **Covers:**
 
@@ -91,7 +90,7 @@ Each automation test includes:
 - Automation Logic  
 - Automation Result  
 - Reason  
-- **Traceability (linked at the top)**  
+- Traceability 
   - Manual Test  
   - Bug Report (if failed)
 
@@ -113,12 +112,12 @@ Located in **Bug-Reports**.
 Each bug report includes:
 
 - Summary  
-- Environment  
-- Preconditions  
+- Environment   
 - Steps to Reproduce  
-- Expected vs Actual Result  
-- Evidence (UI + tooltip + IntelliJ screenshots)  
-- Traceability (linked at the bottom)
+- Expected
+- Actual Result  
+- Impact
+- Evidence
 
 **Documented defects include:**
 
