@@ -1,10 +1,10 @@
 # TC01 – Valid Email and Password – Automation
 
+## Traceability
+- Manual Test: [TC01 – Valid Email and Password](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC01-valid-email-and-password.md)
+
 ## Scenario
 Validate that Koel successfully logs in a user with a valid email and correct password.
-
-## Related Manual Test Case
-- TC01-valid-email-and-password.md
 
 ## Automation Logic
 - Navigate to https://qa.koel.app/
@@ -21,8 +21,3 @@ Validate that Koel successfully logs in a user with a valid email and correct pa
 
 ## Reason
 This test validates the positive login flow and confirms that Koel correctly authenticates valid credentials.
-
-## Evidence
-- Screenshot: Login page with valid credentials entered
-- Screenshot: IntelliJ test execution (PASSED)
-- Screenshot: Koel Homepage after successful login
