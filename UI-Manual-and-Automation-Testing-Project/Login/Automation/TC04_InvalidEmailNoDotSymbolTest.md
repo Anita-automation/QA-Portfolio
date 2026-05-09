@@ -1,13 +1,11 @@
 # TC04 – Invalid Email (Missing Dot Symbol) – Automation
 
+## Traceability
+- Manual Test: [TC04 – Invalid Email (Missing Dot Symbol)](/UI-Manual-and-Automation-Testing-Project/Login/Manual-Tests/TC04-invalid-email-no-dot-symbol.md)
+- Bug Report: [BR04 – Missing Dot Symbol Error Message Not Shown](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/BR04-missing-dot-symbol-expected-error-message-not-shown.md)
+  
 ## Scenario
 Validate that Koel displays the correct error message when the user enters an email address missing the dot symbol.
-
-## Related Manual Test Case
-- TC04-invalid-email-no-dot-symbol.md
-
-## Related Bug Report
-- BR04-missing-dot-symbol-expected-error-message-not-shown.md
 
 ## Automation Logic
 - Navigate to https://qa.koel.app/
@@ -26,8 +24,3 @@ Validate that Koel displays the correct error message when the user enters an em
 Koel does not render a CSS‑selectable validation message for this error state.  
 The login form shakes and shows a red outline, but no text message is displayed.  
 Selenium cannot locate any error element.
-
-## Evidence
-- Screenshot: Login page with invalid email entered
-- Screenshot: Browser behavior (shake + red outline)
-- Screenshot: IntelliJ test execution
