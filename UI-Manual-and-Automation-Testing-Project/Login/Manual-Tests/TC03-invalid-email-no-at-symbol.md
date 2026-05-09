@@ -21,3 +21,12 @@
 
 ## Status
 ❌ FAIL
+
+## Traceability
+- Automation Test: [TC03 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC03/TC03_InvalidEmailNoAtSymbolTest.md)
+- Bug Report: [BR03 – Missing @ Symbol](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/BR03-missing-at-symbol-expected-error-message-not-shown.md)
+
+## Evidence
+
+- Screenshot: [TC03 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/TC03_missing-at-symbol_IntelliJ-Passed.png)
+- Screenshot: [TC03 – Browser Tooltip Message](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR03/TC03_missing-at-symbol_Tooltip.png)
