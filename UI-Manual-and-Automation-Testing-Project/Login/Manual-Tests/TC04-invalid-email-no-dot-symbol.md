@@ -22,3 +22,12 @@
 
 ## Status
 ❌ FAIL
+
+## Traceability
+- Automation Test: [TC04 Automation](/UI-Manual-and-Automation-Testing-Project/Login/Automation/TC04/TC04_InvalidEmailNoDotSymbolTest.md)
+- Bug Report: [BR04 – Missing Dot Symbol](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/BR04-missing-dot-symbol-expected-error-message-not-shown.md)
+
+## Evidence
+
+- Screenshot: [TC04 – IntelliJ Execution Result](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_IntelliJ-Failed.png)
+- Screenshot: [TC04 – UI Red Outline / Shake](/UI-Manual-and-Automation-Testing-Project/Login/Bug-Reports/BR04/TC04_missing-dot-symbol_UI-RedOutline.png)
